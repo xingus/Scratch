@@ -1,79 +1,110 @@
-﻿using CsvHelper;
-using System;
+﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.IO;
-using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace InsBrokEntRes
 {
     class Program
     {
+
+        static ConcurrentDictionary<int, InsBrokRec> records = new ConcurrentDictionary<int, InsBrokRec>();
+        //static Dictionary<string, Dictionary<LinkKey, double>> linkByState = new Dictionary<string, Dictionary<LinkKey, double>>();
+        //static Dictionary<string, Dictionary<int, double>> rankByState = new Dictionary<string, Dictionary<int, double>>();
+        static ConcurrentDictionary<LinkKey, double> links = new ConcurrentDictionary<LinkKey, double>();
+        static Dictionary<int, double> rank = new Dictionary<int, double>();
+
         static void Main(string[] args)
         {
-            Ingest(@"Data\F_SCH_A_PART1_2016_latest_byZip.csv", FilterInsBrokRec, ProcInsBrokRec); // TODO args[0]
-            //Console.Read();
+            Ingest(@"Data\F_SCH_A_PART1_2016_latest_byZip.csv", FilterInsBrokRec, ProcInsBrokRec); // TODO args[1] for file spec
+            Console.Read();
         }
 
-        private static IEnumerable<InsBrokRec> Enumerate(string fileSpec) // TODO class : IDisposable, w/ Enumerate method
+        private static void Ingest(string fileSpec, Func<InsBrokRec, bool> filterInsBrokRec, Action<InsBrokRec> process) // TODO ApplyProcess method 
         {
-            //using (var streamReader = new StreamReader(fileSpec))
-            //using (var csvReader = new CsvReader(streamReader))
-            var streamReader = new StreamReader(fileSpec);
-            var csvReader = new CsvReader(streamReader); // TODO in constructor
-            {
-                csvReader.Configuration.RegisterClassMap<InsBrokRecMap>();
-                csvReader.Configuration.BadDataFound = null; // Skip bad fields, fixes some errors
-                csvReader.Configuration.MissingFieldFound = null; // Skip missing fields, still get record
-                return csvReader.GetRecords<InsBrokRec>();
-            }
-        }
-
-        private static void Ingest(string fileSpec, Func<InsBrokRec, bool> FilterInsBrokRec, Action<InsBrokRec> process) // TODO ApplyProcess method 
-        {
-            //using (var streamReader = new StreamReader(fileSpec))
-            //using (var csvReader = new CsvReader(streamReader))
-            //{
-            //    csvReader.Configuration.RegisterClassMap<InsBrokRecMap>();
-            //    csvReader.Configuration.BadDataFound = null; // Skip bad fields, fixes some errors
-            //    csvReader.Configuration.MissingFieldFound = null; // Skip missing fields, still get record
-            //    IEnumerable<InsBrokRec> records = csvReader.GetRecords<InsBrokRec>();
-                IEnumerable<InsBrokRec> records = Enumerate(fileSpec);
+            using (var csvReader = new MyCsvReader(fileSpec)) {
+                IEnumerable<InsBrokRec> fileRecords = csvReader.Enumerate<InsBrokRec>();
                 try
                 {
-                    Parallel.ForEach(records, record => { if (FilterInsBrokRec(record)) process(record); });
+                    Parallel.ForEach(fileRecords, record => { if (filterInsBrokRec(record)) process(record); });
                 }
                 catch (AggregateException oXcptn)
                 {
-                    //Console.WriteLine($"Line: {csvReader.Context.RawRow} {oXcptn.Message}");
+                    Console.WriteLine($"Line: {csvReader.FileLine} {oXcptn.Message}");
                     foreach (var iXcptn in oXcptn.InnerExceptions)
                     {
-                        //Console.WriteLine($"Line: {csvReader.Context.RawRow} {iXcptn.Message}");
+                        Console.WriteLine($"Line: {csvReader.FileLine} {iXcptn.Message}");
                     }
                 }
-            //}
-            // TODO dispose streamReader, csvReader
+                Console.WriteLine($"{Environment.NewLine}process.");
+                try
+                {
+                    Parallel.ForEach(records, record1 => {
+                        Parallel.ForEach(records, record2 => { if (record1.Key < record2.Key) link(record1, record2); } ); // only need link in one direction
+                    });
+                }
+                catch (AggregateException oXcptn)
+                {
+                    Console.WriteLine($"{oXcptn.Message}");
+                    foreach (var iXcptn in oXcptn.InnerExceptions)
+                    {
+                        Console.WriteLine($"{iXcptn.Message}");
+                    }
+                }
+                Console.WriteLine($"{Environment.NewLine}link.");
+                Parallel.ForEach(links, link => { if (7777 > link.Key.Key1) Console.WriteLine($"{link.Key} {link.Value}"); });
+                //Parallel.ForEach(links, link => { if (link.Key.Key1 > link.Key.Key2) Console.WriteLine($"{link.Key} {link.Value}"); });
+                Console.WriteLine($"{Environment.NewLine}Done.");
+            }
         }
 
-        private static HashSet<string> stateFilterSet = new HashSet<string> { "ME", "NH", "VT" };
+        private static void link(KeyValuePair<int, InsBrokRec> record1, KeyValuePair<int, InsBrokRec> record2)
+        {
+            //if (record1.Key > record2.Key) Console.WriteLine($"link {record1.Key} {record1.Key}");
+            double nameProximity = Proximity(record1.Value.INS_BROKER_NAME, record2.Value.INS_BROKER_NAME);
+            if ( .99 < nameProximity ) links.TryAdd( new LinkKey(record1.Key, record2.Key), nameProximity);
+            //Console.WriteLine($@"{
+            //    record1.Key}, {
+            //    //record.ACK_ID}, {
+            //    //record.FORM_ID}, {
+            //    //record.ROW_ORDER}, {
+            //    //record.INS_BROKER_US_STATE}, {
+            //    record1.Value.INS_BROKER_NAME}, {
+            //    record2.Key}, {
+            //    record2.Value.INS_BROKER_NAME}"); //, {
+            //                               //record.INS_BROKER_US_ADDRESS1}, {
+            //                               //record.INS_BROKER_US_ADDRESS2}");
+        }
+
+        private static double Proximity(string name1, string name2)
+        {
+            return JaroWinkler.Proximity(name1, name2);
+        }
+
+        private static HashSet<string> stateFilterSet = new HashSet<string> { "CT" }; //, "MA", "ME", "NH", "RI", "VT" };
+
         private static bool FilterInsBrokRec( InsBrokRec record)
         {
-            return stateFilterSet.Contains(record.INS_BROKER_US_STATE);
+            return stateFilterSet.Contains(record.INS_BROKER_US_STATE)
+                //&& null != record.INS_BROKER_US_ADDRESS1
+                ;
         }
 
         private static void ProcInsBrokRec(InsBrokRec record)
         {
-            Console.WriteLine($"{record.LineNumber}, {record.ACK_ID}, {record.FORM_ID}, {record.ROW_ORDER}, {record.INS_BROKER_US_STATE}, {record.INS_BROKER_NAME}");
-            records.Add(record.LineNumber, record);
-
+            records.TryAdd(record.LineNumber, record);
+            //Console.WriteLine($@"{records.Count}, {
+            //    record.LineNumber}, {
+            //    record.ACK_ID}, {
+            //    record.FORM_ID}, {
+            //    record.ROW_ORDER}, {
+            //    record.INS_BROKER_US_STATE}, {
+            //    record.INS_BROKER_NAME}"); //, {
+            //    //record.INS_BROKER_US_ADDRESS1}, {
+            //    //record.INS_BROKER_US_ADDRESS2}");
         }
 
-        static Dictionary<int, InsBrokRec> records = new Dictionary<int, InsBrokRec>();
-        //static Dictionary<string, Dictionary<LinkKey, double>> linkByState = new Dictionary<string, Dictionary<LinkKey, double>>();
-        //static Dictionary<string, Dictionary<int, double>> rankByState = new Dictionary<string, Dictionary<int, double>>();
-        static Dictionary<LinkKey, double> linkByState = new Dictionary<LinkKey, double>();
-        static Dictionary<int, double> rankByState = new Dictionary<int, double>();
     }
 
     struct LinkKey : IEquatable<LinkKey>

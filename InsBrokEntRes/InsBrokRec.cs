@@ -34,6 +34,8 @@ namespace InsBrokEntRes
             Map(m => m.FORM_ID);
             Map(m => m.ROW_ORDER);
             Map(m => m.INS_BROKER_NAME);
+            Map(m => m.INS_BROKER_US_ADDRESS1);
+            Map(m => m.INS_BROKER_US_ADDRESS2);
             Map(m => m.INS_BROKER_US_STATE);
             Map(m => m.LineNumber).ConvertUsing(row => row.Context.RawRow);
         }
