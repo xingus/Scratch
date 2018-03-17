@@ -4,7 +4,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.IO;
 
-namespace DiCoreConsole
+namespace DiCore
 {
     public class Program
     {

@@ -22,10 +22,11 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"1. Triangle = {SumOfMultiplesTriangle(999)}");
+            Console.WriteLine($"1. Triangle = {SumOfMultiplesTriangle(1, 999, new List<int> { 3, 5 })}");
             Console.WriteLine($"2. Iterate = {SumOfMultiplesIterate(1, 999, new List<int> { 3, 5 })}");
             Console.WriteLine($"3. Recurse = {SumOfMultiplesRecurse(1, 999, new List<int> { 3, 5 })}");
             Console.WriteLine($"4. LINQ = {SumOfMultiplesLinq(1, 999, new List<int> { 3, 5 })}");
+            //
             Console.WriteLine($@"5. EnumerableByPredicate = {
                 SumOfEnumerableByPredicate( Enumerable.Range(1, 999)
                                           , e => new List<int> { 3, 5 }.Exists(f => 0 == e % f))}");
@@ -35,6 +36,8 @@ namespace ConsoleApp
             Console.ReadLine();
         }
 
+
+
         /// <summary>
         /// Do the math with triangular numbers.
         /// Not easily extendable, but handles the example with math you could do on a napkin.
@@ -42,10 +45,12 @@ namespace ConsoleApp
         /// </summary>
         /// <param name="maximum"></param>
         /// <returns>Sum of multiples of 3 and 5</returns>
-        private static int SumOfMultiplesTriangle(int maximum)
+        private static int SumOfMultiplesTriangle(int minimum, int maximum, List<int> factors)
         {
-            // Add sum of multiples of 3, then 5, subtract multiples of 15 (they were counted twice).
-            return SumTriangular(maximum, 3) + SumTriangular(maximum, 5) - SumTriangular(maximum, 15);
+            // Only handles minimum of 1 and two factors.
+            if (1 != minimum || 2 != factors.Count) throw new NotImplementedException(); 
+            // Add sum of multiples of each factor, subtract sum of multiples of factors product (they were counted twice).
+            return SumTriangular(maximum, factors[0]) + SumTriangular(maximum, factors[1]) - SumTriangular(maximum, factors[0]*factors[1]);
         }
 
         /// <summary>
@@ -134,7 +139,7 @@ namespace ConsoleApp
 
         /// <summary>
         /// Inversion of Control LINQ
-        /// Overkill demonstration.
+        /// Overly contrived demonstration.
         /// </summary>
         /// <param name="enumerator">generates range</param>
         /// <param name="predicate">should element be included in sum?</param>

@@ -5,27 +5,28 @@ using System.Diagnostics;
 namespace DiCoreConsole
 {
 
-    public class App
+    public interface IAppService
     {
-        private readonly Config _config;
-        private readonly ILogger<App> _logger;
-        private readonly IAppService _service;
+        void Run();
+    }
 
-        public App(
+    class AppService : IAppService
+    {
+        private readonly ILogger<AppService> _logger;
+        private readonly Config _config;
+
+        public AppService(
             IOptions<Config> config,
-            ILogger<App> logger,
-            IAppService service)
+            ILogger<AppService> logger)
         {
             _config = config.Value;
             _logger = logger;
-            _service = service;
         }
 
         public void Run()
         {
             var method = new StackTrace(false).GetFrame(0).GetMethod();
-            _logger.LogInformation($"{method.DeclaringType.FullName}.{method.Name} {_config.Title}");
-            _service.Run();
+            _logger.LogWarning($"{method.DeclaringType.FullName}.{method.Name} {_config.Title}");
         }
     }
 }

@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Options;
 using System.Diagnostics;
 
-namespace DiCoreConsole
+namespace DiCore
 {
 
     public class App

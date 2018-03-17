@@ -1,6 +1,6 @@
 ﻿namespace DiCoreConsole
 {
-    public class AppConfig
+    public class Config
     {
         public string Title { get; set; }
     }
