@@ -1,6 +1,8 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Serilog;
+using Serilog.Sinks.SystemConsole.Themes;
 using System;
 using System.IO;
 
@@ -18,11 +20,15 @@ namespace DiCore
 
         private static ServiceProvider MakeServiceProvider(ServiceCollection services)
         {
-            // create service collection
-            // add logging // TODO look into Serilog
+            // add Serilog
+            Log.Logger = new LoggerConfiguration() // TODO use configuration
+                .MinimumLevel.Debug()
+                //.Enrich.FromLogContext()
+                .WriteTo.Console(outputTemplate: "{Timestamp:HH:mm:ss.fff} [{Level:w3}] {Message}{NewLine}{Exception}"
+                                ,theme: AnsiConsoleTheme.None)
+                .CreateLogger();
             services.AddSingleton(new LoggerFactory()
-                .AddConsole()
-                .AddDebug());
+                .AddSerilog());
             services.AddLogging();
             // add configuration
             var configurationJson = new ConfigurationBuilder()
