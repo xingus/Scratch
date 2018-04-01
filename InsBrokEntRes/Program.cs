@@ -82,7 +82,7 @@ namespace InsBrokEntRes
             return JaroWinkler.Proximity(name1, name2);
         }
 
-        private static HashSet<string> stateFilterSet = new HashSet<string> { "CT" }; //, "MA", "ME", "NH", "RI", "VT" };
+        private static HashSet<string> stateFilterSet = new HashSet<string> { "CT", "MA", "ME", "NH", "RI", "VT" };
 
         private static bool FilterInsBrokRec( InsBrokRec record)
         {

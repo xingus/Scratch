@@ -1,0 +1,2004 @@
+P Apple (red)                   1.238kg        $ 7.8
+S watermelon (2nd class)        906 g          20$
+  Product name                  Amount         Price (per kg)
+==================================================================
+P Pear                          18036 g        15.48$
+S Pear                          339  g         $19.26
+P Apple (red)                   1130g          $6
+P Watermelon (2nd class)        14835  g       $ 13.87
+P banana                        17188g         20.43$
+S Pear                          979g           $21.8
+S Pear                          278g           18.13$
+S Watermelon (2nd class)        1701 g         16.4 $
+S Banana                        1.578 kg       $ 24.39
+S Watermelon (2nd class)        1.73 kg        $20.1
+P Apple (green)                 18.998 kg      $12.4
+P Watermelon (2nd class)        19139 g        15$
+S Banana                        1.738kg        $ 19.37
+P Apple (red)                   1.814 kg       $6.7
+P pineapple                     13988 g        $ 58.58
+S Pineapple                     1680g          $61.06
+S watermelon (2nd class)        0.537kg        $17.48
+S Banana                        323 g          $ 23.24
+S Banana                        166g           $22.83
+S Apple (red)                   1.512kg        9.3 $
+S Apple (green)                 1550g          $12.21
+S Pineapple                     730g           $ 60.7
+S Pineapple                     1731 g         $61.34
+S pear                          1.439 kg       $19.36
+S Pear                          1.966kg        $22.1
+S Pineapple                     831 g          $69.84
+S pineapple                     1.545kg        62.9$
+P Watermelon                    18141g         $26
+S pear                          1.166kg        $21.68
+S watermelon (2nd class)        0.817kg        $18
+S Watermelon                    552 g          $33.42
+S pineapple                     0.512kg        65.69$
+S Apple (red)                   1405g          $ 7.70
+P apple (red)                   130g           7.5 $
+S Pear                          1664 g         $19.1
+S Pineapple                     1248 g         $58
+S Watermelon                    108g           $ 31.42
+S Pineapple                     345  g         73.6$
+S Banana                        1103 g         $24.6
+S Banana                        0.558kg        $24.95
+S Apple (green)                 361g           $ 14.74
+S Watermelon                    944g           $30.60
+P watermelon (2nd class)        15285g         12.88$
+P Orange                        14115g         22.31 $
+S Pineapple                     340g           $73.8
+S Watermelon (2nd class)        0.871  kg      19$
+S Banana                        1824g          $22.38
+S Watermelon                    1.677kg        $33.90
+P Apple (red)                   0.977 kg       $7.2
+S Orange                        1.065kg        26.79 $
+S pineapple                     1234g          $67.68
+P apple (green)                 12143  g       $11.07
+S Apple (red)                   1065 g         $8.1
+S Apple (green)                 1.992 kg       15.1 $
+S Banana                        1.695kg        24.95 $
+S Apple (green)                 275 g          $14.41
+P Apple (red)                   0.533 kg       $7.73
+S Apple (green)                 1165 g         $11.8
+P banana                        17398 g        $18.38
+S Watermelon (2nd class)        1598  g        16.0$
+P Pineapple                     11.15 kg       $ 56.04
+S Apple (green)                 371g           12.9$
+S Watermelon                    741g           38.09$
+S Apple (green)                 202 g          13.4$
+S Watermelon                    1610 g         38.83$
+P Apple (red)                   0.743kg        $7.49
+S Pineapple                     1532g          $ 70.38
+S pineapple                     1038g          $69.79
+S Orange                        349g           $25.62
+S Watermelon                    368g           38.6$
+S Orange                        1449 g         23.52$
+S Pineapple                     0.56kg         $68.4
+S Pineapple                     1.635  kg      $ 63
+S Pear                          1.635kg        $18.81
+S Orange                        0.594 kg       23.22 $
+S Apple (red)                   635 g          $8.11
+S Watermelon                    158g           $32.70
+S Apple (green)                 1830 g         $ 12.5
+S Watermelon (2nd class)        1100g          $ 18.1
+S Pineapple                     0.647kg        $68.73
+S Pineapple                     1078 g         60$
+S banana                        1.626 kg       $ 24.12
+S Watermelon                    315g           $31.24
+S banana                        1.548 kg       $23
+P Apple (red)                   1.106kg        $7
+S Watermelon (2nd class)        1.489 kg       $18.01
+S pineapple                     681 g          $64.40
+S Pineapple                     383 g          $ 68.42
+S Watermelon                    1.976 kg       $38.4
+S Apple (red)                   513 g          $9.8
+P Watermelon (2nd class)        13392g         $ 16.26
+S Watermelon (2nd class)        0.528 kg       $ 16.71
+S orange                        0.82kg         $30.91
+S Apple (green)                 0.626kg        $12.0
+S Pear                          1267 g         $21.92
+S Pineapple                     0.835 kg       $57.25
+S Banana                        1480 g         $21.76
+S Orange                        1172 g         24.43$
+S watermelon (2nd class)        1712g          18.72$
+S watermelon                    1.632 kg       $32.96
+S Apple (green)                 320g           $ 14.2
+S Watermelon (2nd class)        0.612 kg       $16
+S Orange                        251 g          $24.38
+S Watermelon (2nd class)        1.891kg        $15.3
+S Apple (red)                   1280g          $9.59
+S pineapple                     0.571  kg      73.0 $
+S Orange                        1421 g         $27.89
+S apple (green)                 1528 g         12.87$
+P pineapple                     18501 g        $57.61
+S Apple (green)                 1.656 kg       $14.72
+S banana                        0.811 kg       $23.48
+S Apple (green)                 493 g          13.11$
+S Watermelon (2nd class)        458g           $18.6
+S Watermelon                    1.67 kg        $33.4
+S Pear                          243g           $ 19.54
+S Pear                          654 g          $ 18.9
+S Pineapple                     725g           $64.0
+S Orange                        1.846kg        $25.00
+S Orange                        893g           $24.78
+S Pineapple                     1207 g         $ 67.66
+P Apple (red)                   158 g          $8
+S Banana                        0.942 kg       $23
+S Watermelon (2nd class)        0.877kg        $ 17.55
+P apple (red)                   11013 g        $8.36
+S banana                        0.66kg         19$
+S apple (red)                   1271g          $8.43
+S Apple (green)                 1882  g        $15.2
+S Watermelon                    827 g          28$
+S Apple (red)                   1368g          $ 10.24
+S Watermelon (2nd class)        1.049 kg       16.24$
+S Pear                          447g           $22.16
+S Orange                        1.305 kg       $27.4
+S Pear                          1.533  kg      $17
+S Apple (red)                   1.925 kg       $9.13
+S Apple (red)                   264g           $9.9
+S Apple (green)                 215 g          $15.01
+S orange                        1.179kg        30.12 $
+S Apple (red)                   486 g          $8.28
+S Watermelon                    126 g          $34.92
+P Banana                        14722 g        $20
+S Pineapple                     1215g          $59.67
+S Banana                        0.778 kg       $25.6
+S Apple (green)                 1034 g         $14.4
+S Apple (green)                 1901 g         $13.2
+S Apple (red)                   1.453 kg       9.4$
+S Orange                        0.714kg        $27.00
+P apple (red)                   4.864kg        $6.75
+S Apple (green)                 198 g          $11.55
+P Pineapple                     11889g         $55.6
+P Orange                        11253g         $25.03
+P Apple (green)                 19155 g        $ 10.69
+S Watermelon (2nd class)        265g           $ 17.38
+S Pineapple                     117 g          68.35 $
+P Banana                        14533g         $18.05
+S Orange                        356  g         29.29$
+S pineapple                     593g           $ 69.79
+S pear                          1129 g         $20.99
+S pineapple                     1.816 kg       $72.9
+S Watermelon                    369g           $29.78
+S Watermelon (2nd class)        1587 g         19.59 $
+S Banana                        1040g          $24
+S Apple (red)                   1.533 kg       $ 8.22
+S Apple (green)                 1504 g         $12.63
+S Pineapple                     1.126 kg       $70.81
+S banana                        1432g          $ 20.08
+S Pineapple                     0.964 kg       $ 55.7
+S banana                        1.176kg        $20.64
+S Banana                        1322 g         $21
+S Pear                          1.033 kg       17.3 $
+S Banana                        312 g          22$
+S Apple (red)                   273g           $7.6
+S Apple (red)                   933 g          $8.31
+S apple (red)                   1.884 kg       9.17$
+S Apple (red)                   1023 g         9.85$
+S pear                          1.171kg        $23.33
+S banana                        1578 g         $ 19.1
+S apple (red)                   1298 g         $9.18
+S orange                        1559 g         24.3 $
+S Pear                          153g           $21.65
+S pineapple                     137 g          $ 64.7
+S apple (green)                 1.058 kg       $13
+P Pineapple                     8.537kg        48.3$
+S Pear                          271g           $21.0
+S Banana                        1825 g         $20.67
+P Pear                          1078g          15.38$
+S Pear                          1277 g         $21.38
+S Apple (red)                   1.635kg        8.06 $
+S Watermelon                    0.775  kg      38.03$
+S Banana                        589g           $ 21.7
+S Banana                        1683 g         $21.33
+P Pear                          1.373 kg       $17.65
+S Watermelon                    681 g          $33.41
+S Orange                        334 g          $28
+S Watermelon (2nd class)        377g           $ 18.4
+S Apple (green)                 539 g          13 $
+S Orange                        192 g          $25.51
+S Apple (green)                 258g           $12.8
+S Apple (red)                   0.639kg        9.99$
+S Pineapple                     1367 g         74.93$
+S Banana                        1381g          25.01$
+S Banana                        395g           $20.39
+P Apple (red)                   723 g          $ 7.0
+S Watermelon (2nd class)        1.278 kg       18.31$
+S Pear                          1.398 kg       $19.52
+P Watermelon (2nd class)        15.332 kg      $ 15.1
+S Watermelon                    794 g          $37.93
+S Watermelon (2nd class)        940g           $20.76
+S Banana                        1659  g        $23.20
+S Banana                        0.602kg        $25.9
+P Pear                          1.553 kg       14.57$
+S Pineapple                     558 g          $63.4
+S Apple (green)                 1.493 kg       $ 15.25
+S Apple (green)                 604g           $15.57
+S Pineapple                     380 g          69.30 $
+P Apple (red)                   1.222 kg       7.01$
+S Watermelon                    1863g          $ 30.94
+S Banana                        1.698kg        $25.07
+S Watermelon (2nd class)        0.922 kg       $ 15.43
+S Pineapple                     468 g          55.37$
+S orange                        1546 g         26.6 $
+S pineapple                     403g           $56.05
+S Banana                        1.314 kg       21 $
+S pear                          1961g          21.27$
+P pear                          1716 g         $18.8
+S Watermelon (2nd class)        1.753 kg       18.1 $
+S Pineapple                     1005g          $64.8
+S Banana                        245g           $ 22.41
+S Pineapple                     0.508kg        $71.19
+P pear                          1950  g        $17.08
+S apple (green)                 1.835 kg       $ 14.2
+S Watermelon (2nd class)        414 g          $ 18.14
+S Orange                        1743g          26.92$
+P Apple (red)                   3518 g         7.47 $
+S Banana                        352 g          $ 24.80
+S Pear                          1478 g         $22.6
+S Watermelon (2nd class)        0.764kg        $16.86
+P Pear                          5920g          $ 18.8
+S Banana                        231 g          $25.0
+S Apple (green)                 304 g          $12
+S Apple (red)                   207g           $8.0
+S banana                        1311g          $24
+S Apple (red)                   1.374kg        $8.65
+S Watermelon (2nd class)        408g           16.75$
+S Apple (green)                 1057 g         $13.19
+P Watermelon (2nd class)        15513g         $12.84
+S Pear                          1463g          21$
+S Banana                        0.529kg        $ 23.00
+S Orange                        1133g          27 $
+S pear                          678 g          $18.23
+S Pineapple                     459  g         57.8 $
+S Banana                        1909g          25.25 $
+S banana                        1.402 kg       $22
+S Watermelon (2nd class)        0.713 kg       $20.60
+S watermelon (2nd class)        0.816kg        18.55 $
+S Apple (green)                 1474 g         $13.96
+S Pear                          0.548kg        17.5$
+S Apple (red)                   349 g          8.52$
+S Banana                        1682 g         $21.20
+S watermelon                    911 g          $ 37.37
+S Apple (green)                 1.282kg        12.06$
+S Watermelon (2nd class)        569g           20.52$
+S Apple (red)                   249 g          8 $
+P watermelon                    1627 g         $27.9
+S Watermelon (2nd class)        0.615kg        $16.06
+S Orange                        1097 g         $25.59
+S pear                          1202g          17$
+S pineapple                     1.905kg        $ 70.74
+S Apple (red)                   1444 g         $10.4
+S pear                          1.947kg        $18.50
+P Pear                          13.316kg       $16.82
+S Pineapple                     1717g          $ 66.55
+S Banana                        449g           19.57 $
+S Orange                        778g           $22.91
+S Banana                        909g           $21
+S Pear                          0.799 kg       22.95 $
+S Pineapple                     1.331kg        $ 72.66
+P watermelon                    1899g          $30.75
+S Apple (green)                 1804 g         13.76$
+S Banana                        127g           $ 21
+S Orange                        0.718 kg       $28.4
+S Pineapple                     1004 g         61.48$
+S Pineapple                     1.047kg        $56
+S Watermelon (2nd class)        1.095kg        19$
+S Apple (green)                 223g           $14.81
+S pineapple                     231 g          $72.53
+S Orange                        1905g          26.99$
+S Watermelon                    1.569kg        $31.6
+S Pineapple                     0.889kg        $ 65.5
+P Pineapple                     8.125kg        $58.7
+S watermelon (2nd class)        1.314  kg      $ 20.16
+P Pineapple                     3949 g         $ 55.01
+S watermelon (2nd class)        1177g          19$
+S Banana                        1.379 kg       20.09 $
+S Watermelon                    0.987  kg      29$
+S Watermelon                    572g           $ 30.37
+S Pineapple                     1.044kg        $71.80
+P Orange                        10306 g        $22.95
+S Apple (green)                 1.074 kg       11.70$
+S Apple (green)                 1080g          11.50$
+S Pear                          128g           22.11 $
+S Banana                        497g           $ 24.9
+S Pear                          134 g          20.41$
+S pineapple                     1549g          61.29$
+S Pear                          1.664kg        $ 19.99
+S pear                          519 g          $ 20.29
+P Watermelon                    519g           $28.97
+S Pear                          498g           $19.53
+P orange                        7283 g         $20.11
+S Banana                        1.365 kg       $25
+S Watermelon (2nd class)        1730 g         19.1 $
+S Apple (red)                   1.087kg        $9.5
+S Banana                        592g           $19.51
+P apple (red)                   1863g          $7.2
+P Pineapple                     19.768kg       48$
+P pineapple                     8353g          $58.06
+S Apple (red)                   1.517 kg       $8.57
+S Pear                          0.788 kg       21$
+P Apple (red)                   8.221kg        6.6 $
+S Pineapple                     1.009kg        $ 71.40
+S Banana                        316g           23.21$
+P Watermelon (2nd class)        4178g          13.3 $
+S Pear                          0.503kg        $20.3
+S Orange                        0.906kg        $27.9
+P Watermelon                    1578g          $28.8
+S banana                        1.153 kg       $21.38
+S Orange                        714g           $ 26.87
+S Watermelon                    470 g          $30.13
+S apple (green)                 1.456 kg       12.11$
+S watermelon (2nd class)        703g           $18.76
+S Banana                        723g           22.4$
+S Pineapple                     141 g          68.33$
+S Banana                        114g           $ 23.8
+S Orange                        1893g          $26.5
+S apple (green)                 239 g          $ 14.39
+S Watermelon                    1.733  kg      $28.6
+P Pineapple                     4.544kg        50.1 $
+S Banana                        674 g          $22.80
+S Watermelon (2nd class)        1.771 kg       $ 19.00
+P Pineapple                     3739g          $50
+S Pineapple                     100 g          $72.71
+S Pear                          379g           $ 22.8
+S Apple (red)                   1328 g         $8.7
+P Pear                          11.623kg       $15.0
+P Pear                          18.241kg       $ 18
+S Watermelon (2nd class)        1.955kg        $ 19.27
+S Watermelon                    231 g          $30.1
+S Orange                        0.855 kg       $29.45
+S Pear                          1.833 kg       17$
+S Apple (green)                 1.884kg        14.5$
+S orange                        1.29kg         $24.12
+S Pear                          1.242kg        $20.77
+S Pear                          1968g          $ 17.45
+S Orange                        0.719 kg       $ 22.89
+S Pineapple                     1.207kg        $73.57
+S Watermelon (2nd class)        1.915kg        $ 17
+S banana                        347 g          $22.7
+S Banana                        302  g         25.65$
+S Pear                          301 g          21.75 $
+S Orange                        1.321  kg      $22.95
+S banana                        1100 g         $21.11
+S Apple (red)                   1561 g         $8.0
+P Banana                        1576g          $18.41
+P Apple (green)                 17.08kg        $11.76
+S Orange                        1.958 kg       24.14$
+S Banana                        610 g          21.69$
+S Apple (red)                   1.963kg        10.2$
+S pineapple                     428g           72.57 $
+S Orange                        1807g          23.72$
+S Watermelon (2nd class)        1.04kg         $15
+S Orange                        990  g         $27.75
+P Watermelon                    209g           $28.26
+S Pineapple                     1670 g         $56.92
+S Apple (green)                 715g           $ 12.81
+S Orange                        1.077kg        $ 23.63
+S Banana                        1.064 kg       $23.06
+P Watermelon                    1.722kg        $27.46
+S Orange                        307 g          $26.15
+S Banana                        1.579kg        $19.3
+S Apple (green)                 238g           $15.14
+S Pineapple                     417 g          $58.24
+S Apple (green)                 502g           $ 14.52
+S Apple (red)                   1.27kg         $ 8
+S Pear                          1.587 kg       19.19 $
+S Banana                        1993g          $ 21.19
+S watermelon (2nd class)        1.18kg         19.05$
+S Pear                          1839  g        $ 18.19
+S watermelon (2nd class)        0.657kg        $ 19.75
+S Apple (red)                   1.176kg        $8.39
+S Watermelon                    264 g          $ 31.2
+S Orange                        457g           $ 23.3
+S Watermelon                    523g           30.49$
+P Watermelon                    1.536kg        $ 27.53
+S Banana                        132 g          $20.29
+P Banana                        18.124kg       $20.0
+S Watermelon (2nd class)        713 g          $20.32
+S pineapple                     1904 g         $ 61.33
+S Apple (green)                 0.865  kg      12.67 $
+S watermelon (2nd class)        660 g          18$
+S banana                        1.913  kg      22.61 $
+S watermelon                    1051g          $ 36.69
+S Apple (green)                 1.076kg        11.6$
+S orange                        1.307kg        $23
+S banana                        0.698 kg       $ 19.5
+P Apple (red)                   9785g          $8.19
+S Watermelon                    368 g          $ 35.86
+S Pineapple                     1535g          $59.20
+S Apple (red)                   1.581kg        $ 10.10
+S Banana                        1.292 kg       22.23$
+S Apple (green)                 486g           $ 11.85
+S Apple (green)                 310g           $ 14.66
+S Pear                          852 g          $ 19.1
+S Banana                        248g           $25.5
+S Pear                          1.534kg        $18.8
+S Apple (red)                   129 g          8 $
+P Apple (green)                 18.03kg        $11
+S Pineapple                     552g           $70.6
+P Watermelon                    1396 g         $28.44
+S Pear                          401 g          19.8 $
+S Banana                        1.858kg        22.8$
+S Pineapple                     1303 g         $70.3
+S Pineapple                     1477 g         $57.46
+S Orange                        630g           $30.79
+S Banana                        0.727kg        24.04$
+S Apple (red)                   950 g          $8.53
+S Pineapple                     1662g          $71
+S Orange                        1069 g         $30.5
+S Pineapple                     1966 g         63.01 $
+P Pineapple                     14.06 kg       $49.18
+S Watermelon                    1.134 kg       $ 31.5
+S Apple (red)                   1316g          $ 10.03
+S Pear                          646 g          $20
+S Watermelon (2nd class)        1.445 kg       $16.32
+S Apple (red)                   1.929kg        7.69$
+S Apple (green)                 163g           $ 13.9
+S Watermelon                    1.178kg        $ 36.88
+S Apple (green)                 1.799 kg       $11.7
+S Apple (green)                 226 g          $12.8
+S apple (green)                 1696g          $ 15.34
+P Orange                        1511 g         $ 22.55
+S Banana                        746 g          $21.13
+S Pineapple                     1.735kg        58.5$
+S Banana                        0.783 kg       19.01$
+S banana                        1054 g         25.2$
+S apple (red)                   280g           $ 8.6
+S apple (red)                   0.973kg        $9
+S Orange                        1.221kg        $24.72
+S Watermelon (2nd class)        1653 g         $15.54
+P Watermelon                    1.493 kg       $29.97
+S Orange                        0.794kg        $28.73
+P Watermelon                    7.346 kg       27.80$
+S Apple (red)                   1.355kg        $ 7.8
+S Watermelon (2nd class)        862  g         20$
+S Pear                          1.148 kg       19.69$
+S pear                          1.398kg        $20
+S Apple (red)                   1.195kg        9.85 $
+P Banana                        11580 g        $17.62
+P Orange                        6427g          22.23 $
+S watermelon (2nd class)        338g           $ 15.79
+S Watermelon                    1927 g         32 $
+S Pineapple                     1.427kg        63.42$
+S Banana                        321g           21.38 $
+S Apple (green)                 1654g          11.8$
+S Watermelon                    1131g          $34.95
+S pineapple                     1322g          $ 69.6
+S watermelon (2nd class)        1306g          $16.81
+S Watermelon                    1983 g         32.01$
+S Watermelon                    333 g          $32.8
+S Banana                        1581 g         $22.72
+S Watermelon (2nd class)        1.534 kg       $20.6
+S Pear                          1.53 kg        19.0$
+S Apple (red)                   1.377 kg       $8.0
+P Apple (red)                   0.823kg        8.09$
+S Pineapple                     0.734 kg       62.87 $
+S Apple (green)                 1.678kg        $13.27
+P Watermelon                    4277 g         29.12$
+S Watermelon                    155 g          37 $
+S Watermelon (2nd class)        1361g          15$
+S Banana                        334g           $22.55
+S Orange                        1053 g         $ 25.4
+S Pear                          305 g          22$
+P orange                        8843 g         $21.55
+S Watermelon                    1.094  kg      29.1$
+S Watermelon (2nd class)        311 g          $18.9
+S Watermelon (2nd class)        240g           $ 20.50
+S Watermelon (2nd class)        1.199 kg       $18.39
+S Banana                        131  g         $23.17
+S Watermelon (2nd class)        0.536 kg       $19.04
+S Banana                        0.629 kg       $24.4
+S Pear                          1.197 kg       $22.30
+S Orange                        0.822 kg       $30.31
+S Pineapple                     180 g          $62.8
+S Watermelon                    391  g         $ 37.88
+S watermelon (2nd class)        1.487 kg       15$
+S Watermelon (2nd class)        1195g          $20.42
+S Watermelon (2nd class)        624g           $16.12
+S apple (green)                 1.431  kg      $ 13.0
+S orange                        1720g          $27.92
+S Orange                        433g           $23.46
+S Watermelon                    636g           $33.18
+S Apple (red)                   1.041kg        $8.60
+S Orange                        0.7kg          27.03 $
+S watermelon (2nd class)        0.558 kg       $16.6
+S Pear                          1316g          $19.1
+S Pineapple                     527g           $ 66
+P Apple (red)                   690g           $ 7.5
+S Apple (green)                 1.455 kg       $12.30
+S Watermelon (2nd class)        715 g          $20.09
+S watermelon (2nd class)        1909 g         $18.7
+S Pear                          0.798 kg       $ 17.65
+S pineapple                     1183g          $71.52
+S Apple (green)                 101g           $13.1
+S Watermelon                    1280g          $32.21
+S Orange                        766 g          $24.5
+P Apple (red)                   7.785 kg       $6.8
+S Watermelon (2nd class)        1868g          $ 18.69
+S Orange                        1.622kg        $29.1
+S Apple (red)                   909g           $9.32
+S Apple (red)                   1609g          9.58 $
+S Watermelon                    1074g          $ 33.50
+S Apple (red)                   422g           8.29$
+S Banana                        517 g          23 $
+S Pineapple                     0.816kg        $ 63.3
+S watermelon (2nd class)        1642 g         $18.48
+S orange                        670g           30.58$
+P Pineapple                     6.772kg        52.02 $
+S Pear                          454g           21.9$
+S Watermelon (2nd class)        992 g          16$
+P Apple (green)                 13.256kg       10 $
+S Banana                        1.22kg         $ 21.5
+S Watermelon (2nd class)        209 g          18$
+S Orange                        869 g          $23.66
+S Pear                          1.839 kg       $ 22.48
+S Banana                        350g           $ 22.38
+P banana                        13377g         $17.37
+S Watermelon                    0.539 kg       36.44$
+S Watermelon (2nd class)        1517g          20.1$
+S Apple (green)                 209 g          $ 14.83
+S Apple (green)                 218 g          15.29 $
+S Watermelon                    411 g          $28.69
+S Banana                        1635 g         21.4$
+S watermelon                    171 g          34.89$
+S apple (red)                   391 g          $9.77
+S Watermelon                    1.062 kg       33.27 $
+S Watermelon (2nd class)        1712g          $ 16.63
+S Pear                          1.478 kg       21.58$
+S Watermelon (2nd class)        840g           $ 19.56
+S Banana                        1.418kg        $ 19.58
+S banana                        283g           $ 26.0
+S Orange                        1.059kg        $30.12
+S watermelon                    1.369kg        $ 37.27
+S Pineapple                     1.722 kg       74.09$
+S Banana                        1663 g         $25.80
+P Orange                        3327  g        20.7$
+S Banana                        402g           $ 25.18
+S Orange                        418 g          $ 23.76
+S Orange                        509g           $ 27
+S Apple (red)                   1966 g         $ 8.64
+P Watermelon                    250 g          27.83 $
+P Pear                          15257g         $17.17
+S Pineapple                     238g           $56.4
+S Banana                        1328g          $20.17
+S Apple (green)                 187 g          11.60$
+P pear                          5030 g         17.99$
+S Banana                        1621g          $19.07
+P watermelon (2nd class)        16.192kg       $ 16.03
+P Banana                        5.481kg        $16.3
+S Apple (green)                 346 g          $15.48
+S Pineapple                     1.094 kg       $61.3
+S Apple (green)                 0.587 kg       $15.26
+S Apple (red)                   0.658  kg      $ 8.80
+S Watermelon (2nd class)        0.893kg        $17
+S Apple (red)                   1.508kg        $9.7
+S Watermelon (2nd class)        1834g          $19.84
+P Orange                        19.902kg       $20.66
+S Pear                          1.525kg        $20.6
+S Pear                          1.653kg        $23.22
+P watermelon                    1.382 kg       $ 27.02
+S Watermelon (2nd class)        1.119kg        $ 17.7
+S Orange                        1.982 kg       $28.66
+S Apple (green)                 417g           $ 11
+P Orange                        3.791 kg       19.22$
+S Watermelon (2nd class)        1240 g         $ 20.48
+P Apple (red)                   8580g          $7.10
+S pear                          822g           $ 18
+S Apple (red)                   375g           $8
+S Watermelon                    1.446kg        $37
+S Orange                        1325 g         28.22$
+S banana                        1.062kg        $20.99
+S Apple (red)                   0.81kg         $ 9.41
+S pear                          1.291 kg       22.68 $
+S orange                        260 g          27.86$
+S Apple (red)                   1882 g         $ 7.9
+S Pineapple                     1767 g         64.21 $
+S Apple (green)                 1651 g         15.5$
+P Apple (green)                 4026 g         $12.55
+P Watermelon                    1808g          29.50 $
+S Banana                        553g           $24.22
+S Pineapple                     679 g          $ 57.8
+S watermelon (2nd class)        1223g          17.54$
+S Orange                        267g           $26
+S Orange                        1855g          $23.85
+S Orange                        326 g          $25.38
+P Pear                          4136 g         $16
+S Banana                        1.109kg        $ 23.47
+P Watermelon                    11.994kg       $29.97
+S Pineapple                     573g           $72.51
+S Pineapple                     1330 g         65.57 $
+S Banana                        1.439 kg       $23.58
+S Banana                        218 g          $22.26
+P Watermelon (2nd class)        19168 g        $14.71
+S Apple (red)                   0.765  kg      $ 8.6
+S Orange                        1.861kg        $30.49
+S Pear                          1.121kg        $17
+S Watermelon (2nd class)        595g           17.32$
+S Orange                        1.332kg        $27.84
+S pear                          1919 g         $17.5
+S watermelon (2nd class)        232 g          15.24$
+S Watermelon (2nd class)        856 g          $ 15.66
+P Pineapple                     8077g          $55.11
+S Watermelon                    1.662 kg       30.1$
+S Pineapple                     481g           $68.7
+S Pear                          1806g          $21.7
+S Banana                        0.85 kg        $23.8
+S pear                          1310 g         $20.02
+P Watermelon (2nd class)        3825g          $15.7
+S Orange                        1820g          $30
+S banana                        1462g          $19.2
+S pineapple                     0.831 kg       $ 58.12
+S Orange                        728g           $ 23.08
+S Pineapple                     1.414 kg       $ 68.42
+S watermelon (2nd class)        0.699kg        $19.80
+S orange                        0.639 kg       $ 27.64
+S Apple (red)                   1.62kg         8.22$
+S Pear                          1039g          $17.21
+P Apple (green)                 14742g         $ 9
+S Apple (green)                 213 g          $14.41
+S Watermelon (2nd class)        992g           $ 16.6
+S Watermelon                    1.279kg        $38.7
+S watermelon                    848g           34.67$
+S Watermelon                    0.995 kg       $ 37.1
+S pear                          1424 g         $22.18
+S Pineapple                     1.385 kg       65$
+S Orange                        1.985 kg       24.01$
+S Pear                          254 g          $21.22
+S orange                        1.048 kg       $30.48
+S Watermelon (2nd class)        257g           $18.4
+S Banana                        1174g          $21.64
+S Apple (red)                   1.257 kg       $9.7
+S Banana                        1.447 kg       $24.64
+S banana                        1.017kg        $24.75
+S Pineapple                     1439g          $ 60.63
+P apple (red)                   17.826 kg      $7.0
+S Pineapple                     1.892 kg       $ 69.17
+S Banana                        1.937 kg       $22.33
+S watermelon (2nd class)        0.59 kg        $ 20.08
+S Apple (red)                   450 g          8.66$
+S Orange                        1249g          $23
+P Watermelon (2nd class)        10.211 kg      $ 13.11
+S apple (green)                 927g           $11.8
+S Watermelon (2nd class)        1.356 kg       $15.41
+S orange                        1868 g         $28.48
+S Apple (red)                   1.749kg        $7.62
+S Watermelon (2nd class)        1.697 kg       $16.47
+S orange                        1.533kg        23.13$
+S Pear                          1.805kg        $ 22.44
+S apple (green)                 1741g          11.54$
+S Apple (green)                 1.046kg        $13.3
+S Banana                        1.413kg        $20.3
+S Watermelon (2nd class)        1.275 kg       17.94$
+S Pineapple                     206g           57.96 $
+P apple (green)                 7.628kg        $10.99
+S Banana                        243g           $ 19.74
+S Banana                        0.605 kg       19.44$
+S Watermelon                    485g           $29.2
+S watermelon (2nd class)        139g           20$
+S Banana                        1901 g         25.3$
+S Pineapple                     745g           $56.19
+S Pineapple                     151 g          $64.69
+S Banana                        1.031 kg       $ 22.4
+S Watermelon                    0.901kg        $ 37.20
+S Orange                        1.191 kg       $26.3
+S Apple (red)                   940 g          $9.53
+S Apple (red)                   0.729 kg       9.59$
+S watermelon (2nd class)        222g           $15.55
+S Apple (red)                   645g           $10.04
+S Apple (red)                   348g           $9.43
+S Apple (red)                   0.511 kg       $ 7
+S Orange                        446  g         $25.12
+S watermelon                    340 g          $ 32.95
+S Watermelon (2nd class)        145 g          $19.6
+S pineapple                     0.633kg        70$
+S Banana                        0.582kg        $19.74
+S pear                          1.235  kg      17.73$
+S Watermelon (2nd class)        1382  g        $ 15.7
+S Watermelon                    1.755 kg       $ 28.55
+S Apple (green)                 0.671 kg       $11.45
+S Banana                        1169g          20.23$
+S Apple (green)                 1878g          $ 13.4
+S apple (red)                   278 g          $10.10
+S Pineapple                     0.861 kg       57.34 $
+S Pear                          0.714 kg       $21.07
+S Pear                          436 g          $ 17.66
+S Banana                        1.442 kg       $23.9
+S Orange                        1.973kg        29.6 $
+S Banana                        1.29  kg       $ 22.20
+S Orange                        480 g          27$
+S pear                          0.698kg        20.30$
+S Watermelon                    0.646  kg      $28.9
+S Apple (red)                   985g           $8.76
+S Pineapple                     1751 g         $69.54
+P Apple (green)                 17804 g        12.4$
+S Apple (green)                 1298g          14$
+S Pear                          541 g          20.59$
+S apple (green)                 876 g          12.55$
+S Pineapple                     366g           $70.76
+S pear                          1.103 kg       $22.4
+S apple (green)                 286g           $11.94
+S apple (green)                 794 g          $14.33
+S Watermelon                    1628g          $31
+S pear                          549g           $ 19.94
+S Apple (red)                   1095g          9.9 $
+P Banana                        15540g         $18
+S pineapple                     1013 g         $ 72.5
+S Apple (green)                 1909g          14.22 $
+S Pear                          1.672kg        $22.47
+S apple (red)                   384g           $ 9.29
+S Pineapple                     1778g          $65.12
+S Pineapple                     1843g          71.1$
+S Orange                        598g           26.82$
+S pear                          1.233kg        19.4$
+S Pear                          401 g          $ 19.92
+S Apple (red)                   1.159kg        $ 10.14
+S Apple (red)                   537g           $7
+S Apple (green)                 1.54 kg        12.4$
+S Apple (red)                   1.59 kg        $8.69
+S Apple (red)                   0.941kg        $ 7.60
+S apple (red)                   1741g          $7.9
+S Pear                          0.99kg         $23.02
+S Banana                        1.252kg        21.66$
+S Apple (green)                 1.817 kg       $13.84
+S Apple (green)                 1.514kg        $14.5
+S Orange                        1747 g         27.7$
+S Apple (red)                   1.79kg         $ 7.97
+S Pear                          1.216 kg       $18.7
+S Orange                        1.87 kg        $26.48
+S Banana                        0.591 kg       20.54 $
+S Pear                          563g           $18.62
+S Watermelon (2nd class)        1347g          $16.34
+S Orange                        233g           $27
+S Apple (green)                 1.913kg        $11.8
+P Apple (green)                 12479 g        9.75 $
+S Orange                        0.89 kg        22.96$
+S Apple (red)                   1699 g         $ 8.0
+S banana                        1749g          $25.1
+S Banana                        1757  g        $21.2
+P Banana                        15.987kg       $16.12
+S Watermelon (2nd class)        1.397kg        $19.77
+S Pear                          1678 g         21.59 $
+S Pineapple                     1882 g         $ 63.24
+S Orange                        0.578kg        $24.49
+S Orange                        1431g          $28.23
+S Apple (red)                   889 g          9.76$
+S Pineapple                     1414  g        $ 58.57
+S Pineapple                     1.587kg        65.49$
+S Pineapple                     1605  g        $67.64
+S Watermelon (2nd class)        1184g          16.73$
+S Watermelon                    1.738 kg       $30.7
+S Orange                        443g           25.8 $
+S pineapple                     1668g          $72.79
+S Apple (red)                   0.58  kg       7.97$
+S Apple (green)                 1482 g         $12.11
+P Pineapple                     8737g          53.26 $
+P Apple (green)                 13.004kg       $ 10.92
+S Apple (green)                 1.554 kg       $13.57
+S Watermelon (2nd class)        414g           20$
+S Watermelon (2nd class)        1937  g        $16.9
+S Watermelon (2nd class)        1.164kg        18.40 $
+S banana                        0.946 kg       $23.18
+S apple (green)                 1.047kg        $14.25
+S Pineapple                     0.559kg        60$
+S Apple (green)                 807 g          $ 12.83
+S pear                          1.415kg        21.5 $
+S Pineapple                     1.906 kg       62.34$
+S Banana                        301 g          23.2 $
+S Watermelon                    1.103kg        30.95$
+S Pineapple                     1171g          $ 63.92
+P watermelon                    1625g          28.09 $
+S Watermelon (2nd class)        461g           $ 18.22
+S Watermelon                    0.731kg        $36.48
+P Orange                        1.046 kg       19.6$
+S Orange                        500g           $25.9
+S pear                          1336 g         20.95$
+S Banana                        0.717  kg      $24.2
+S Orange                        118g           $27.13
+S Watermelon                    0.696 kg       $29.90
+P Watermelon                    1.86 kg        $27.15
+S pear                          1562g          21.36$
+S watermelon                    1621 g         38$
+P Watermelon                    1.555 kg       $26.00
+S watermelon (2nd class)        1.167 kg       19.69$
+S Watermelon (2nd class)        584g           $ 20.51
+P Orange                        1.671kg        $21.57
+S Pear                          1456  g        $ 18.2
+S Watermelon (2nd class)        1215 g         $ 20
+S Pear                          1680 g         $22.18
+S Apple (green)                 1547g          11.44$
+S Pear                          348 g          $21.02
+S Watermelon                    0.814 kg       $35.64
+S Watermelon                    137 g          32.64$
+S Pear                          1.726 kg       17.5 $
+S Banana                        0.791  kg      $ 24.62
+S Watermelon (2nd class)        1.841kg        20.33$
+S Pineapple                     1248g          $69.9
+S Pear                          1353g          23.33$
+S Pineapple                     1795g          $63.54
+S banana                        705g           23$
+S Watermelon (2nd class)        813g           $ 17.88
+S Apple (red)                   871g           $8.04
+S Watermelon (2nd class)        1842g          $17.82
+S Watermelon (2nd class)        0.541 kg       $18.04
+S Orange                        1.703kg        29.91$
+P Pear                          1221 g         $ 17.99
+S Apple (green)                 1.444 kg       $ 13.26
+S Pineapple                     184g           61 $
+S Pineapple                     1.328 kg       70.01$
+P watermelon                    11047g         29.99 $
+S Watermelon                    1143 g         $31.42
+S orange                        799g           $ 29.09
+S Watermelon (2nd class)        1.777 kg       17.13$
+S Pineapple                     1.356kg        $73.3
+S pear                          969 g          $ 17.57
+S Apple (red)                   1.259kg        $7
+S Watermelon (2nd class)        1517g          20.15$
+S Watermelon                    1866g          31.48$
+S Watermelon (2nd class)        1070 g         $18.10
+S Watermelon (2nd class)        277g           $15.38
+S Apple (green)                 1.034kg        12.21 $
+S Watermelon (2nd class)        1153g          $19.32
+S Apple (green)                 1.54 kg        13.07$
+P Orange                        1.562kg        $20.91
+P apple (red)                   1845g          7.59$
+P Orange                        1865 g         $21.35
+S apple (red)                   1.332 kg       $9.30
+P Apple (red)                   0.913 kg       7.5$
+P Orange                        9.114kg        $20
+S Apple (red)                   1064 g         $ 10.03
+S Watermelon (2nd class)        424g           $17.49
+P Apple (red)                   1596 g         $7.3
+S watermelon                    747g           34.49 $
+S Orange                        0.908 kg       $ 30.22
+S Banana                        1.16 kg        $ 21.58
+S watermelon                    1467g          $32.30
+S Orange                        1853 g         $29.70
+S Pear                          1.007kg        $ 18.18
+P pear                          1182g          $14.4
+S Watermelon (2nd class)        175 g          $ 18.93
+S Watermelon (2nd class)        1707 g         $16.60
+P Pear                          1438 g         17.40 $
+S Apple (green)                 1324g          13.74$
+S Banana                        328g           $25.99
+S apple (red)                   1.974kg        $9.64
+S Pear                          448 g          $ 21
+S Apple (green)                 457g           $12.68
+S Apple (green)                 1533g          $11.85
+S Pineapple                     491g           $ 68.77
+P apple (red)                   5.169 kg       $7.98
+S Pear                          531 g          $ 19.58
+P apple (green)                 13104 g        9.74$
+S Apple (green)                 1050 g         $15
+S Pear                          1790g          18.70$
+P pear                          1.639kg        15.5$
+S Watermelon                    1107g          36.77 $
+S Apple (red)                   649 g          $ 8.55
+S Apple (red)                   958g           $9.82
+P Pear                          1959g          $16.7
+S Apple (green)                 437 g          14.6$
+S Watermelon (2nd class)        1.016kg        $ 17.93
+P Apple (red)                   14.275 kg      $8.17
+S Banana                        1952 g         $ 21.42
+S Watermelon (2nd class)        864 g          17.01$
+S Watermelon (2nd class)        1.871kg        $18.31
+S Watermelon (2nd class)        590g           $19.4
+S Watermelon (2nd class)        0.604 kg       $16.59
+S Watermelon                    0.501 kg       $32.85
+S Apple (green)                 1.651 kg       $11.91
+S Pineapple                     106 g          68.0$
+S Apple (green)                 0.786kg        14.18$
+S Apple (red)                   686 g          $10.03
+S Apple (red)                   508g           $9.68
+S watermelon                    1.8 kg         $ 34.03
+S Pear                          1.367 kg       $22.33
+S orange                        1772 g         $30.17
+S watermelon (2nd class)        1.433kg        16.4$
+P Apple (green)                 15.901kg       $11.51
+S pear                          1.509 kg       $21.37
+S Banana                        702g           $23.13
+P Pear                          1.495 kg       $18.12
+S Apple (red)                   604 g          $9.12
+S Orange                        380 g          $27.11
+P Orange                        6737g          $24.03
+S Orange                        1.984 kg       $26
+S watermelon                    294g           $35.56
+S pineapple                     1.477kg        $66.55
+S Banana                        804 g          $22.18
+S Apple (red)                   624 g          $8
+S Pineapple                     274g           $68.87
+S Pear                          500g           $19.5
+P Watermelon (2nd class)        1.5kg          $ 16.6
+P Pineapple                     15333 g        $53.74
+S orange                        1.277  kg      29.6 $
+S Pear                          1.13 kg        $18.85
+S Banana                        0.945  kg      $20.95
+S Apple (red)                   1897g          $9.51
+S Watermelon                    1955g          35.8$
+S Pineapple                     201 g          67.82 $
+S Apple (red)                   1.854kg        8.52$
+S orange                        1744g          $ 25.33
+S Orange                        124g           24.4$
+P Pear                          1.502 kg       $14
+S Watermelon (2nd class)        1.76kg         $ 15.53
+S pineapple                     0.668 kg       58.82 $
+S Banana                        1694g          $ 23.59
+S Pear                          799 g          $19.9
+S Pineapple                     1877g          $59.06
+S Watermelon                    0.526 kg       $37.9
+P Watermelon                    1.679 kg       28.58 $
+S Orange                        815g           23.47$
+S Apple (red)                   1534 g         8.5$
+S Banana                        469  g         25.99$
+P Apple (red)                   10561g         $ 8.14
+S Watermelon (2nd class)        1.643kg        20.44$
+S banana                        1145g          $20.4
+S Watermelon                    1429 g         $ 28.52
+S Watermelon                    325g           $36.35
+S Orange                        0.916 kg       $24.23
+S apple (red)                   1089 g         $8.87
+S Apple (green)                 143  g         $12.2
+S Orange                        630 g          $26.8
+S Apple (red)                   270g           $7.66
+S Apple (green)                 1013 g         13.04$
+P Pear                          1.38  kg       $15.26
+S orange                        0.855kg        31.0$
+S Watermelon (2nd class)        227 g          $16.8
+S orange                        1810g          25.00$
+P apple (green)                 13.276kg       $ 9.66
+S Apple (green)                 394g           $15
+S Apple (red)                   462g           $ 8.69
+S Apple (green)                 1.268 kg       $15.0
+S apple (red)                   0.946  kg      $9.39
+S apple (red)                   349 g          $ 7
+S Orange                        829g           $27.60
+S apple (green)                 1.793kg        12.99$
+S Apple (red)                   1505 g         $ 9.79
+S Apple (green)                 0.673  kg      $14.48
+P Apple (red)                   1.655 kg       $8.10
+S orange                        287g           25.50$
+S Pear                          287g           20.03$
+S Watermelon (2nd class)        1.978kg        19.13$
+S Apple (red)                   0.568kg        9.42$
+S Watermelon (2nd class)        1.318 kg       $ 16.43
+S Pear                          111g           $18.7
+S Pineapple                     448g           75.00 $
+S watermelon                    1.01 kg        $28.70
+S Apple (green)                 1.252kg        12.7$
+S Watermelon (2nd class)        1.418 kg       17.41$
+S Pear                          1237g          $20.36
+S Apple (green)                 340 g          13.63$
+S pineapple                     1180g          $69.67
+P Orange                        17.157 kg      $21.60
+S Banana                        1.107 kg       25.2 $
+P Pineapple                     8845 g         51.90 $
+P pear                          1.572 kg       $ 17
+P watermelon                    1.229kg        $ 30.0
+S Apple (red)                   361 g          $ 9.71
+S Pear                          841g           $23.03
+S Apple (red)                   1.264kg        $8.64
+S Apple (red)                   166 g          $8.41
+S Apple (green)                 145g           $11.70
+S watermelon (2nd class)        391g           16$
+S Orange                        1248g          $ 28.3
+S Banana                        0.666 kg       $20.7
+S Pineapple                     1.677 kg       71.23$
+P Watermelon (2nd class)        2111 g         $15.68
+S Watermelon (2nd class)        1.265kg        $17.1
+S Banana                        374g           $25.52
+S Apple (green)                 1.647kg        $12.90
+S Watermelon (2nd class)        1.833 kg       18.10$
+S Pineapple                     1127g          70$
+S Apple (green)                 585 g          14.0$
+S Banana                        1584 g         19.5$
+S Banana                        0.973kg        $ 23.13
+S Apple (green)                 0.559kg        $ 11.77
+S Pear                          1.475kg        22.95$
+S apple (red)                   1029 g         $ 7.67
+S orange                        0.879 kg       $22.83
+S banana                        1776g          24.30$
+S banana                        1307 g         $ 19.22
+S Watermelon (2nd class)        1528 g         18.4$
+S Orange                        1501 g         $24.86
+S Orange                        227g           $ 24.7
+S Watermelon                    804g           $35.68
+P Watermelon                    1.945kg        $27.8
+P apple (green)                 15760 g        $9
+S apple (green)                 1.468 kg       14$
+S Watermelon (2nd class)        262g           $16.11
+S Pineapple                     894  g         72.22$
+S Apple (red)                   1619 g         $8.71
+S Watermelon (2nd class)        140g           $ 15.3
+P Pineapple                     16.323 kg      $52
+P Banana                        15.644kg       $16.78
+S Orange                        391 g          $26.51
+S Watermelon                    0.769kg        33.0$
+P Apple (green)                 13.345kg       $11.31
+S Watermelon (2nd class)        1869g          $20.66
+S Watermelon (2nd class)        0.916kg        $ 18.42
+S orange                        230g           $28.9
+S watermelon (2nd class)        0.794kg        $20.45
+P Pear                          1799g          $16.4
+S Watermelon                    0.95kg         38.20$
+S Apple (red)                   403 g          $9.77
+S pear                          180 g          20.7$
+S pineapple                     1.829 kg       $71.26
+S orange                        1453g          $24
+S Apple (green)                 1.906kg        11.65 $
+P Watermelon                    1813g          $28.3
+S Watermelon (2nd class)        1858g          $18.41
+S Apple (green)                 1471g          $ 15.47
+S orange                        120g           24.88 $
+S Apple (green)                 946g           14.16 $
+S Watermelon (2nd class)        1419 g         $19.09
+S Apple (red)                   305g           $8.8
+S Apple (red)                   313 g          $9.6
+S Banana                        1.862 kg       $23.03
+S orange                        1.647 kg       $29.4
+S banana                        455g           $25.12
+S Orange                        1561g          $29.96
+S watermelon                    123  g         $33.58
+P Watermelon                    1.145kg        $27.0
+S Orange                        920g           $29.7
+S Apple (green)                 1.011 kg       12.2 $
+S Apple (green)                 350 g          $12
+S Watermelon (2nd class)        1951g          20.36$
+S pear                          591g           $22
+S Watermelon                    0.919  kg      29.4 $
+S Banana                        1.527kg        $20.81
+S Banana                        0.967kg        23$
+S Watermelon                    660 g          $ 31
+S Apple (red)                   1921g          $7.71
+S pineapple                     213 g          $71.55
+S banana                        1344g          $19
+S Pear                          753 g          $18.06
+S pineapple                     1.324 kg       $62.23
+S pear                          163g           $23.27
+S Watermelon                    1547  g        36.23$
+S Pineapple                     0.529kg        $63
+S Orange                        1.866kg        29.6 $
+S Apple (green)                 1.607 kg       11.58$
+P Pear                          1.737 kg       $16.3
+S Watermelon (2nd class)        1.348 kg       20$
+P apple (green)                 1432 g         10.84 $
+S Pineapple                     233 g          $73
+S Apple (green)                 170g           $14.97
+S Pineapple                     309 g          $68.51
+P banana                        17353  g       $ 17.4
+S Apple (green)                 0.621kg        14.65$
+P Watermelon (2nd class)        14.278 kg      $15.54
+P Watermelon                    1.998kg        $30.8
+S Watermelon (2nd class)        1.817 kg       $ 20.25
+S Watermelon (2nd class)        853g           $19.71
+S Pear                          227 g          $22.7
+S Apple (red)                   1824 g         9.77 $
+S Watermelon                    1.892  kg      37.3$
+S Pineapple                     1.155  kg      $67.4
+S apple (green)                 1316g          $ 12.38
+P Watermelon                    1009 g         $26.5
+P Apple (green)                 3.695kg        $10.76
+S Apple (red)                   737 g          $8.16
+S Watermelon                    695g           38.56$
+S watermelon (2nd class)        820g           20.4$
+P Banana                        1737  g        $17.77
+S Pear                          0.856 kg       17.84$
+P watermelon (2nd class)        8.056kg        14.39$
+P Watermelon                    1836g          $24.80
+S Apple (green)                 248 g          $12.6
+P watermelon (2nd class)        4.136kg        13$
+S Pear                          266 g          $19.20
+S Watermelon (2nd class)        1620 g         $ 15.26
+S Watermelon                    1541g          $ 34.77
+S watermelon (2nd class)        1169g          $ 16.1
+S Watermelon (2nd class)        1.689kg        16.4$
+S Apple (green)                 426g           $ 12.1
+S Banana                        1.063 kg       $19
+S Pineapple                     1233g          57.3 $
+S Apple (red)                   0.553 kg       $7.89
+S Banana                        718 g          $25
+S Pineapple                     1.641 kg       $57.24
+S Watermelon                    344g           $33.17
+S Apple (green)                 821g           $ 12.52
+S Apple (green)                 1509g          $14.37
+S Watermelon                    181 g          $36.44
+S Watermelon (2nd class)        1734g          $ 16.30
+S Pineapple                     1.51 kg        $58.74
+P Watermelon                    1681g          $24.29
+S Watermelon                    1.793kg        $29.34
+S Orange                        1.145 kg       $23.2
+S Banana                        1.995kg        $22.11
+S Pineapple                     1622g          $74.91
+S Apple (green)                 1076 g         $11.8
+S Pear                          412g           22.6$
+S Apple (green)                 618g           $15.41
+P Watermelon (2nd class)        17252g         $ 13.0
+S Watermelon (2nd class)        168 g          18.56$
+S Apple (red)                   1.002 kg       $ 9.32
+S Apple (red)                   1.484kg        $7.91
+S Apple (green)                 236 g          $13.67
+P Watermelon                    1.337 kg       $29.79
+P Pineapple                     13269g         $57.38
+S Watermelon (2nd class)        696g           $20.2
+S Orange                        1172g          22$
+S Apple (green)                 0.58kg         $12.05
+P Apple (red)                   11651g         $7
+S Banana                        1014 g         $19.65
+S Watermelon                    0.906 kg       $36.89
+S Watermelon (2nd class)        469 g          $19.96
+S orange                        179 g          $25.3
+P Pear                          1817 g         $18.43
+P Orange                        16147g         $23.33
+S Pear                          0.593 kg       $17.63
+S Apple (red)                   1.329kg        10.26$
+S Apple (red)                   1560 g         $10.4
+S watermelon                    428 g          37.95$
+S Orange                        1.982 kg       $29.0
+S Watermelon (2nd class)        487g           $16.3
+S Pineapple                     999g           $ 73.59
+S Apple (red)                   0.905kg        $8.61
+S Pear                          627g           23.02 $
+S banana                        226 g          23.77 $
+S Watermelon                    388 g          $38.0
+P Apple (red)                   7115g          7.6$
+S Pineapple                     435 g          67.1$
+S Apple (green)                 108g           $15.02
+S Orange                        831g           $26.44
+P Pear                          14612 g        18$
+S Banana                        1.285kg        $20.2
+S Orange                        0.676 kg       31.17$
+S orange                        1445g          $ 25.66
+S Apple (red)                   254g           $9.12
+S Pineapple                     618g           73 $
+S Pear                          0.787kg        20.52$
+S Orange                        132g           $23.90
+S Apple (red)                   1.353 kg       $8
+S Banana                        327 g          25.58$
+S Pear                          1.332 kg       $19.8
+S Apple (red)                   329 g          $9.5
+S Apple (green)                 664g           $ 11
+S Apple (red)                   1.863kg        $8.18
+S Apple (red)                   515 g          $ 9.09
+S Pear                          0.668kg        19.28 $
+P Orange                        5617g          $24.84
+S Apple (green)                 0.678kg        $13
+S Pear                          0.87 kg        $ 22.2
+S Apple (red)                   1.523 kg       $9.92
+S apple (red)                   176g           $ 10.19
+S Pear                          1925g          $ 20.48
+S orange                        1274 g         $25.53
+S watermelon (2nd class)        476g           $17
+S Banana                        1.89 kg        $22.61
+S apple (green)                 394g           $15.2
+S Apple (green)                 1.441 kg       $13.57
+S Watermelon (2nd class)        1255g          $ 20.2
+S Apple (red)                   1387g          $9
+S Apple (red)                   1.081 kg       $7.91
+P Apple (red)                   2.177kg        7.3$
+P Watermelon                    1.282 kg       25 $
+S Watermelon (2nd class)        315g           17.33$
+S Pear                          1954 g         $ 23.25
+S apple (green)                 1.909kg        $15.31
+S Apple (green)                 429g           $ 14.6
+S Apple (green)                 613 g          $11.47
+S Banana                        1.247 kg       20.2$
+S apple (green)                 230g           13.0$
+S Watermelon (2nd class)        326g           $15
+S Watermelon (2nd class)        0.91 kg        $18.79
+S Apple (green)                 400g           $ 15
+S Orange                        1989g          27.60 $
+S Pineapple                     1029g          59.1 $
+S Apple (green)                 1363g          $15.03
+S Apple (green)                 1.706kg        $14
+S Watermelon                    0.807 kg       $31.4
+S Pear                          1.633kg        $ 19.42
+S Apple (red)                   1936g          $ 8.62
+P Banana                        13.174kg       $20.0
+P Pear                          3092g          18.48$
+S Apple (green)                 0.88 kg        14.4$
+S pineapple                     1.915kg        63.31$
+S pineapple                     1625 g         $ 73
+P watermelon (2nd class)        9.849 kg       $13.89
+S Pineapple                     1755 g         61.59$
+S apple (green)                 1.411kg        12.31$
+S apple (green)                 1716  g        $12.76
+S Apple (green)                 0.727kg        11.80$
+S Pineapple                     0.87 kg        71.80$
+S Orange                        1917g          $30.0
+S Pear                          0.972kg        21.60 $
+P Watermelon                    1424g          $24.39
+S Apple (red)                   1.627kg        8.80 $
+S orange                        1.88 kg        $ 28.78
+S Apple (green)                 1458g          15.33$
+S Apple (red)                   1.699kg        $ 8.36
+S Pear                          548g           22.42$
+S pear                          1376 g         20.76$
+S Pineapple                     1.541kg        $ 60.3
+S Watermelon (2nd class)        150g           $ 18.55
+S apple (green)                 1.243kg        $11.55
+S Pineapple                     136g           $73.35
+S Watermelon (2nd class)        562g           18.53$
+S watermelon (2nd class)        0.925kg        18.82$
+S Orange                        1829g          $27.1
+S apple (green)                 1.675kg        $11.8
+S Apple (green)                 160g           13.23 $
+S Watermelon                    0.719kg        $35.63
+P watermelon                    1.622kg        $30.81
+S Banana                        1.258 kg       $23.06
+S Watermelon                    471g           $ 30.90
+S orange                        388 g          22.8$
+S Watermelon (2nd class)        0.816 kg       $19
+S Apple (red)                   1800g          $ 8.2
+S Watermelon (2nd class)        1603g          $ 16.28
+S Apple (red)                   1.627 kg       $8.91
+S Watermelon (2nd class)        1.075kg        $ 19.24
+S Apple (red)                   1034g          $ 10.1
+S Apple (red)                   0.773  kg      $ 7.70
+S Banana                        1.122 kg       20$
+S Watermelon (2nd class)        1.338 kg       $15.59
+S Apple (red)                   1384g          9.53$
+S Orange                        0.805 kg       $ 28.13
+P Apple (red)                   1943g          7.91 $
+S Apple (red)                   335g           $7.7
+S Orange                        227g           30.4$
+S Apple (green)                 1.256 kg       $14
+P Pear                          12464  g       17.4 $
+S Apple (green)                 1848g          13.5$
+P Apple (red)                   9.469 kg       $7.9
+S apple (green)                 591g           $13.44
+P pineapple                     17273g         $55.46
+S Watermelon (2nd class)        0.995kg        $ 17.03
+S Watermelon                    1.427kg        $ 30.25
+S Pineapple                     635g           $ 63.53
+S Pear                          971g           $ 20.50
+S Watermelon (2nd class)        1955g          $15.92
+P Watermelon                    1919  g        $25.0
+S watermelon (2nd class)        2000g          18.82$
+S Watermelon (2nd class)        1291 g         $18.06
+S apple (green)                 0.986kg        $12.10
+S apple (green)                 1.273 kg       $14
+S Apple (red)                   1325g          $8.7
+S watermelon (2nd class)        0.616kg        20.5 $
+S Watermelon (2nd class)        1475 g         15.66 $
+S Pineapple                     1.168kg        71.97 $
+S Orange                        0.572 kg       27.5 $
+S Apple (red)                   0.613kg        $8.96
+S Apple (red)                   553 g          8.3$
+S watermelon                    189 g          $31.68
+S Watermelon                    0.903 kg       33.31$
+S apple (green)                 437 g          $14.21
+S Apple (green)                 1341 g         $13.70
+S Banana                        1.337kg        24.01$
+S Apple (green)                 1481 g         $13.7
+S Apple (green)                 1.424kg        $ 12.70
+S Apple (red)                   1.376 kg       9.97 $
+S Orange                        1283 g         $31.13
+S Pear                          1360g          $18.9
+S Watermelon (2nd class)        1249g          20.2$
+S Pear                          1.411kg        22.53$
+S Watermelon (2nd class)        998 g          $ 17.57
+P pineapple                     4.144kg        $58.1
+S Pear                          119g           22.88 $
+S watermelon                    1761 g         $38.7
+S Apple (red)                   1192 g         $8
+S Apple (green)                 322g           $13.56
+S Banana                        145 g          $23.27
+P Pear                          11049g         $ 15.58
+S Banana                        0.624kg        $24.08
+S Orange                        876g           27.2$
+S Apple (green)                 0.627 kg       $13.77
+S Pineapple                     110g           69.90$
+S pineapple                     0.706kg        58.44 $
+P watermelon                    795 g          $30.86
+P watermelon                    1.478kg        $28.78
+S watermelon (2nd class)        1705 g         $16.2
+S Watermelon                    186g           $34.3
+S Pear                          1410g          20.07$
+S Watermelon (2nd class)        1290g          16.02$
+S watermelon                    1121g          $29.20
+S banana                        289 g          $21.8
+P Apple (green)                 16152 g        $12
+P Watermelon (2nd class)        8501g          13.77$
+S orange                        507g           28.33$
+S Apple (green)                 321 g          $ 15.57
+S Apple (green)                 1376 g         13.53$
+S Watermelon                    823 g          $ 29.08
+S Pear                          1509g          $20.31
+S Watermelon (2nd class)        1342g          $ 20.41
+S Banana                        1335 g         $19.67
+S Banana                        1048g          22.16$
+S Watermelon (2nd class)        477g           20.41$
+S Apple (red)                   1.296 kg       $ 8.62
+S watermelon (2nd class)        261g           $15.71
+S Pineapple                     1.582kg        $71.8
+S pineapple                     1.21 kg        $70.45
+S watermelon (2nd class)        258 g          $17.6
+S Orange                        1473g          27.21 $
+S Banana                        879g           $22.97
+S Pineapple                     462 g          $71.8
+S Watermelon (2nd class)        382g           17.91 $
+P Watermelon                    1895 g         $ 27.55
+S Banana                        364g           $23.73
+S Watermelon (2nd class)        398 g          18.55$
+S Pear                          1.603kg        19.72$
+S Watermelon                    1.51 kg        $29.9
+S Pear                          0.571 kg       22.55$
+P Pear                          19.858kg       $ 17.98
+S Apple (green)                 882g           $13.2
+S Orange                        290g           25.5$
+S Watermelon (2nd class)        1.523 kg       17 $
+P pear                          7.209kg        $18.67
+P Watermelon                    916 g          29.54$
+S pear                          474g           $18
+P Banana                        1439 g         $16.33
+S pineapple                     1.267 kg       74$
+S Pineapple                     568g           59.94 $
+S Watermelon (2nd class)        1337 g         $17.76
+S Orange                        1986g          $ 27.32
+S Apple (green)                 1637 g         $14.32
+S Apple (red)                   0.595 kg       $9.72
+S Pear                          0.809kg        $19.09
+S Pear                          1.044 kg       21.64 $
+S apple (red)                   1892 g         8.60$
+S watermelon (2nd class)        1027 g         18$
+S watermelon (2nd class)        445g           $ 18.43
+P Watermelon                    1.864 kg       24.5 $
+S Orange                        0.564kg        $25
+S Watermelon (2nd class)        0.63kg         $ 18.4
+S Orange                        930g           $ 23.87
+S banana                        442 g          $24.35
+S Pineapple                     930g           $ 68.81
+P Watermelon (2nd class)        5.357kg        $13.65
+S Banana                        1.673 kg       $25.1
+S Pineapple                     1.948kg        $ 65.1
+S Orange                        952g           $28.72
+S pear                          404g           18.6 $
+S watermelon (2nd class)        374 g          $ 17.39
+S Watermelon (2nd class)        1611g          $17.66
+S Orange                        1.729kg        $30
+S Banana                        1117g          $24.39
+P banana                        10.134 kg      20.34$
+S Apple (red)                   0.784kg        9.47 $
+P Pineapple                     15.568kg       $57.20
+S Pear                          1859  g        $23
+S Apple (green)                 934g           $14.1
+P Orange                        1096 g         24.65$
+S Pineapple                     891g           $64.1
+S Apple (green)                 1.084 kg       13.1$
+P apple (red)                   4.116kg        $6
+S Banana                        1.382kg        $22.0
+P apple (red)                   8866 g         $7.12
+S orange                        0.748kg        $ 23.09
+S Pineapple                     1591g          $ 74.27
+S Banana                        462g           19.21$
+S Apple (green)                 700g           11.47$
+S Watermelon                    135g           30.43$
+S Pear                          117g           $18.31
+S Apple (red)                   0.762kg        7.7 $
+S Apple (red)                   308g           $ 10.18
+S Orange                        199 g          $ 28.0
+S Watermelon (2nd class)        656 g          $ 15.81
+S Pear                          461 g          $17.22
+S Watermelon                    952 g          $ 36.3
+S Apple (green)                 1644 g         $ 12.18
+S Watermelon                    1736g          $35.54
+P Watermelon                    0.779kg        $29.1
+S Watermelon                    632g           $35.20
+S Watermelon (2nd class)        1.735 kg       $ 16.07
+S banana                        1.591kg        $20.17
+S Watermelon (2nd class)        1.743  kg      $ 16.7
+S Apple (red)                   1.096kg        $8.50
+S Apple (green)                 1633g          $14.20
+P Orange                        1.519kg        $22.78
+S Apple (red)                   0.501 kg       10.22 $
+S Apple (green)                 271g           13.1$
+S Pear                          1254 g         $17.2
+S Apple (green)                 1.233kg        $12.33
+S Watermelon (2nd class)        1.666kg        $ 20
+S Pear                          1036g          $ 21.36
+S Pineapple                     1950 g         $ 67.2
+S orange                        691 g          $26.16
+S Banana                        1.67 kg        $23.21
+P watermelon                    1.65kg         26.42 $
+S apple (green)                 0.542kg        $12.05
+S Orange                        931g           $ 30.2
+P Orange                        1.525 kg       $ 19.4
+S watermelon                    1.603 kg       36.4$
+S Orange                        0.869kg        $27.5
+S apple (green)                 152 g          $15.59
+S Banana                        1846g          $20
+S Apple (red)                   1292 g         7.79 $
+S Orange                        1473 g         $28.3
+S Banana                        306 g          $24
+S Banana                        911 g          $ 19.3
+P Watermelon (2nd class)        18.074kg       $15.5
+S banana                        1.981 kg       $23
+S apple (red)                   562g           $9.9
+S Apple (green)                 1304g          $15.12
+S Pineapple                     933g           $71.42
+S apple (green)                 719 g          $15.5
+S banana                        1017g          $20.4
+P Pineapple                     8843 g         $46
+P watermelon                    1.673kg        $ 25.79
+S Apple (green)                 266g           13.06$
+S Pineapple                     1396 g         $72.76
+S banana                        1217g          $21.8
+S Watermelon (2nd class)        1434 g         $18.5
+S apple (red)                   1.096 kg       10.39$
+S Pear                          0.839  kg      $ 19.1
+P orange                        876g           25.2$
+S Pineapple                     1.789 kg       $56.75
+S Apple (red)                   1.073  kg      $ 7.8
+S Watermelon (2nd class)        1.18kg         $15.88
+S apple (red)                   1.228kg        $7.84
+S Watermelon                    489g           29 $
+S apple (red)                   1889 g         $ 8.6
+S Watermelon (2nd class)        273 g          15.83$
+S Watermelon                    473 g          $36.77
+S Watermelon (2nd class)        153g           $18.20
+S Apple (red)                   0.95 kg        $ 8.8
+S apple (red)                   1.169kg        9 $
+S Watermelon                    212 g          $ 36
+S Pear                          188g           18.41$
+S Pineapple                     1719g          $72.45
+S Pear                          365 g          $20.04
+P orange                        11.203kg       $21.83
+S Apple (green)                 1.124kg        13$
+S Apple (green)                 1531 g         $12.39
+S pineapple                     576g           $63.3
+P Watermelon                    1474 g         29.4$
+S Watermelon                    1.174 kg       $28.62
+S Watermelon                    216 g          $36.9
+S banana                        0.815 kg       21.06$
+S Pineapple                     531g           $ 55.86
+P apple (green)                 13982g         10$
+S apple (green)                 1.435 kg       $15.00
+S Apple (green)                 718g           14.08$
+S banana                        321 g          $19.2
+S Apple (red)                   227 g          $8.0
+S Apple (green)                 0.721kg        $ 12
+S Watermelon (2nd class)        1974g          $18
+S Apple (green)                 1.186 kg       13.5$
+S orange                        0.707kg        $ 30.1
+P Apple (green)                 7969 g         $ 9.79
+S Pineapple                     1.046 kg       $68.8
+S Watermelon (2nd class)        0.985kg        20.36 $
+S apple (green)                 726g           $ 11.72
+P watermelon                    3024g          28.0$
+S Pear                          1728g          17.16$
+S Orange                        1.586 kg       $28.42
+S Pear                          109 g          $ 19.77
+S Banana                        0.742 kg       $22.91
+S Banana                        0.91 kg        $22.17
+S Watermelon (2nd class)        1344g          $ 17.44
+S Pineapple                     1.96kg         $64
+S Watermelon (2nd class)        857 g          $ 20.2
+S Orange                        687 g          $ 29.8
+S orange                        0.63 kg        $ 23.44
+S Orange                        1.857 kg       $26.66
+S Apple (green)                 748 g          $13.3
+S Apple (red)                   280g           $ 8.94
+S apple (green)                 1096g          $13.59
+S Pear                          0.537  kg      $18.14
+S Banana                        1757g          24 $
+S Apple (green)                 1739 g         $12.51
+S Orange                        1078 g         $30.2
+S Watermelon (2nd class)        755g           $16.07
+S Pear                          163 g          $ 18.29
+S Pear                          1.568kg        $19
+S Pineapple                     852g           $72.81
+S Orange                        1.715kg        28.54 $
+S pear                          443g           $20.4
+S watermelon                    0.828kg        $30.0
+P watermelon (2nd class)        18527 g        $14.32
+S pineapple                     1.487 kg       $ 74.92
+S orange                        0.972 kg       $26.2
+S Watermelon (2nd class)        1008g          17.67$
+S Apple (red)                   163g           $ 9.49
+S Apple (green)                 1621 g         $ 14
+S apple (green)                 1361g          12.17 $
+P Pear                          7010  g        $17.83
+S Pineapple                     241g           $69.7
+S watermelon (2nd class)        1.629kg        16.55$
+S Watermelon (2nd class)        2  kg          $20.6
+S Apple (red)                   1.858kg        $8.09
+S Pineapple                     1.82 kg        $ 74.35
+S Watermelon (2nd class)        1142 g         17.6$
+S pear                          639g           21.8 $
+S Pineapple                     1.895 kg       61.5 $
+S Pear                          237 g          $ 23.04
+S Orange                        552g           $28.81
+S Watermelon (2nd class)        566  g         $16
+S Banana                        1925 g         $19.7
+S Pineapple                     244 g          $70.72
+P pineapple                     18850 g        $56.6
+S Apple (green)                 451 g          $ 12.6
+S Apple (green)                 1.331 kg       $ 14.54
+S Pear                          1.815 kg       $ 21
+S Apple (red)                   1.003 kg       9.0$
+P Orange                        2374 g         $22.27
+P Apple (red)                   1529g          $6.6
+S Pear                          183 g          19.70 $
+S Apple (green)                 1.738 kg       $12.22
+S Apple (red)                   908g           $8
+S Pear                          104 g          $20.07
+S Pear                          813g           20.26$
+S Watermelon (2nd class)        263 g          $ 15.81
+S Pear                          1368 g         $17.6
+S Watermelon (2nd class)        1.52kg         19.53$
+S Watermelon (2nd class)        1520g          $17.56
+S Banana                        1382 g         23 $
+S Watermelon (2nd class)        253 g          $ 19.8
+S apple (green)                 1403g          12 $
+S Pear                          1.969 kg       22.11$
+P apple (red)                   0.962kg        $ 7.8
+S pineapple                     1485g          62.18$
+S Pineapple                     456  g         59.30$
+S Pear                          1.871 kg       21.54$
+S Watermelon                    1.203kg        $38.39
+S Banana                        0.676kg        23.28$
+S Apple (red)                   372 g          $10.1
+S apple (green)                 1348 g         12.22$
+S Orange                        440 g          $28.85
+S Apple (red)                   0.611 kg       $ 8.56
+S Watermelon                    1238g          $31.83
+P Apple (red)                   0.91 kg        7.82 $
+S Watermelon (2nd class)        1754g          $17.5
+P Banana                        4.147 kg       $17
+P Banana                        4.705kg        $ 17.03
+S Watermelon (2nd class)        131g           19.9 $
+S Pear                          0.824 kg       $ 21.41
+S Apple (green)                 1069 g         $13.44
+S Orange                        1936 g         $25.4
+S Watermelon (2nd class)        1597g          $17
+S Watermelon (2nd class)        1.151 kg       $16.6
+S orange                        1233g          $29.2
+S pear                          116g           $ 18.75
+S Apple (red)                   162g           $ 8.0
+P apple (red)                   1476g          7.84$
+S Watermelon                    834 g          $31.73
+P watermelon (2nd class)        7.97kg         13.9$
+S Pear                          0.953 kg       $17.2
+P Watermelon                    1.37kg         $28.3
+S Apple (green)                 153 g          $11.69
+S Pineapple                     212g           $57.49
+S Banana                        1.261 kg       $23.54
+P Orange                        1833g          $24.71
+S Watermelon (2nd class)        1.922 kg       $16.4
+S Pineapple                     1338g          $69.25
+S apple (red)                   666g           $9.75
+S watermelon (2nd class)        1.653kg        19.08$
+S Watermelon (2nd class)        1173 g         $ 16.1
+S Orange                        443g           23.28$
+S apple (red)                   1.791kg        8.5 $
+S Pear                          1991 g         $21.04
+S Apple (red)                   368 g          $8
+S watermelon                    1.049kg        $ 33.1
+S Watermelon (2nd class)        479 g          20.4 $
+S Orange                        268g           $26.97
+S pear                          0.766 kg       $20.3
+S Pear                          433g           20$
+P Orange                        17.083 kg      $ 23.1
+S Banana                        1.234 kg       $21.91
+S Pear                          691 g          $22.69
+S Banana                        1.897 kg       $ 19.16
+S Pineapple                     1.023 kg       $72.46
+S Pear                          424g           20.93 $
+P Watermelon                    960g           $ 28.16
+P apple (red)                   1.024kg        7.63$
+S Banana                        631 g          $20
+S Banana                        0.574 kg       $19
+P Apple (red)                   1.686kg        $6.82
+S Banana                        1.422kg        $ 22.54
+S Watermelon (2nd class)        1315g          $18
+S Watermelon (2nd class)        1568g          15.99 $
+S Watermelon                    1289g          $31.4
+S Watermelon                    109 g          $ 37.41
+S Pineapple                     1.454kg        $72
+P Apple (green)                 11.986 kg      11.20$
+S pineapple                     1863 g         66$
+S Apple (red)                   1.358 kg       $9.25
+P Watermelon                    725g           $ 29.4
+S Banana                        413g           $24.46
+S pear                          0.59 kg        17.15$
+S Orange                        0.627 kg       24.54$
+P Watermelon                    1.277kg        30.6$
+S banana                        1.842 kg       $22.34
+P pear                          12.66 kg       $17.08
+S Watermelon (2nd class)        827g           18.82$
+S apple (red)                   583g           $7.8
+S banana                        1.841 kg       21.49$
+S Pear                          1.966kg        21.2$
+S Orange                        1.872 kg       30.0 $
+S Orange                        0.891kg        25.3 $
+P Watermelon (2nd class)        11102 g        $12.93
+S Apple (green)                 678 g          $ 13.41
+S apple (green)                 479 g          $12.43
+S Pear                          1.282 kg       $19.58
+S Watermelon                    1.126kg        29.48$
+S Apple (red)                   680g           9.12$
+S Apple (green)                 1.865 kg       11$
+S pineapple                     1.821 kg       $67.17
+S Pear                          664 g          $22.91
+S Apple (green)                 0.865kg        14.55 $
+S Pineapple                     1931 g         $57.8
+S Watermelon                    185g           $32.0
+P Watermelon                    1.658 kg       $24.59
+S Banana                        618  g         20.56$
+S watermelon (2nd class)        0.771kg        $20.73
+S Orange                        1.592kg        $ 28.6
+S Watermelon (2nd class)        1.241kg        $18.96
+P Apple (red)                   1.055 kg       $7.99
+S Watermelon (2nd class)        0.917  kg      $17.1
+S Watermelon                    1598g          $32.28
+S Pineapple                     1.342kg        73.05$
+P pineapple                     12.67kg        $ 56.67
+S banana                        1486 g         $ 19.77
+P Apple (red)                   1409g          $7.7
+S Banana                        1.623 kg       $25.8
+S Watermelon                    629 g          $ 35.82
+S Watermelon (2nd class)        1.616kg        $ 17.4
+S Apple (red)                   432 g          $9.9
+S Pineapple                     1284g          $62.38
+S Pineapple                     1900g          $ 60.19
+P Orange                        2.673kg        21.92 $
+S Orange                        1.986  kg      29.92$
+S Orange                        372g           30$
+S Pineapple                     1123g          $61.57
+P watermelon                    1306 g         30$
+S Orange                        131 g          $29.26
+P watermelon                    7932 g         25.84$
+S Apple (red)                   541 g          10.1$
+S Banana                        0.633kg        $23.0
+P Apple (red)                   1.776kg        $7
+S Orange                        1473g          $24.3
+S pineapple                     1.067kg        64.15 $
+S pear                          1.978 kg       $ 20.8
+S pear                          1.086 kg       $22.9
+S Banana                        0.787kg        21.17$
+S apple (green)                 1649 g         12.28$
+S Pineapple                     1160g          75.4$
+S Pear                          805g           $ 18.91
+S apple (green)                 1.42kg         $12.31
+S Banana                        1391g          21.5$
+S Watermelon                    1130 g         $32.40
+S Orange                        821g           $30.02
+S Apple (green)                 1478g          12$
+S Pear                          1.933 kg       22.93 $
+P Watermelon (2nd class)        12831 g        14.27$
+S Pineapple                     1.56kg         $66.54
+S Pineapple                     1519  g        $58.85
+S Orange                        733g           $26.8
+S Watermelon                    1659g          $31.9
+S Watermelon (2nd class)        435  g         $18.33
+S Apple (red)                   362 g          $8.09
+S Watermelon                    444g           $ 37.67
+S Apple (red)                   1.369 kg       $ 9
+S Apple (green)                 125 g          15.1$
+P Pineapple                     9547g          $ 49.2
+S Pear                          384 g          $23.19
+S Banana                        1447 g         23.02$
+P Banana                        17465g         $20.22
+S Watermelon (2nd class)        1.367kg        15.84 $
+P Apple (red)                   5626g          $7.0
+S Banana                        1126g          $ 22
+S Banana                        1995g          19.19 $
+S Apple (red)                   1048 g         $9.0
+S Watermelon (2nd class)        1.836kg        $ 16
+S Watermelon (2nd class)        381 g          17.67 $
+S Watermelon                    0.523 kg       $ 32.75
+S Pineapple                     1.311kg        71.98$
+S apple (green)                 1.702 kg       $ 14.5
+S Pear                          0.909kg        $ 20
+S Watermelon                    199g           $ 31.87
+P Watermelon                    7.085kg        $30.7
+S apple (red)                   623 g          $9.62
+S watermelon (2nd class)        1.599kg        $15.3
+S Pineapple                     1500g          $60.8
+S Watermelon                    711g           $ 32.21
+S pear                          1.524kg        $ 21.86
+S Watermelon (2nd class)        771 g          $15.9
+S Watermelon (2nd class)        1441g          $16.31
+S apple (red)                   0.783 kg       9.22 $
+S Orange                        381g           25.51 $
+S Banana                        1.045 kg       $21
+S Pear                          314 g          $21
+S apple (red)                   654 g          $7
+S Pear                          1.901kg        $19.46
+S Pear                          1.39 kg        $22.2
+S banana                        0.94kg         $19.92
+S Pineapple                     370g           $ 64.36
+S Watermelon                    1799g          $ 37.7
+S Orange                        1.863 kg       $ 25.6
+S Watermelon                    452g           $28.59
+S Pineapple                     1.879kg        $69.72
+S Watermelon (2nd class)        983 g          $ 20.43
+S Pineapple                     359 g          67.80$
+S Pear                          1661g          21.87$
+S orange                        921 g          28$
+S Pineapple                     1.441 kg       $74.18
+S apple (green)                 0.813kg        $14.35
+S Orange                        371 g          24.44$
+P pineapple                     8868  g        $ 47.6
+S Orange                        0.759 kg       $23.9
+S Pear                          0.765kg        19$
+S pear                          1809g          $20.10
+S Pear                          460g           $18
+S Orange                        432 g          $28.0
+S Pear                          1.791kg        $20.73
+S apple (red)                   189g           $ 7.83
+S Watermelon (2nd class)        0.919 kg       $ 15.48
+S Watermelon (2nd class)        1169 g         $16.68
+S Apple (green)                 460g           $14.12
+S Pineapple                     640g           63.39$
+P Apple (red)                   13151 g        $6.52
+S Orange                        359 g          $31
+S Pear                          0.681  kg      19.7$
+S Orange                        775g           24.80 $
+S Orange                        882g           $25.0
+S Pineapple                     909 g          $ 66.69
+S Orange                        137 g          $31.1
+S banana                        1598g          $19.4
+S Apple (green)                 0.593kg        $ 14.8
+S pear                          1.15 kg        $22.2
+P Banana                        3.389 kg       18.33$
+S Watermelon (2nd class)        0.731 kg       $18.09
+S Pear                          1801 g         19.8$
+S orange                        1.865kg        29.15 $
+S apple (green)                 1181 g         $13.9
+P apple (green)                 4319g          10.6 $
+S Banana                        1677g          $25.0
+S Pineapple                     1456 g         $ 57.55
+S Pear                          0.863 kg       $19.82
+S Banana                        0.968kg        $23.97
+S pineapple                     0.531kg        57.96$
+S Pineapple                     430g           $69.5
+S orange                        1.976kg        29.14 $
+S Banana                        0.725kg        $25
+S Watermelon (2nd class)        1895g          18.1$
+S Banana                        1.154kg        21.5 $
+S Watermelon (2nd class)        1.488kg        $19.9
+S watermelon (2nd class)        409 g          $18.12
+S banana                        0.709kg        22.1 $
+P Watermelon                    14.358kg       $29.30
+S Banana                        346 g          23.0$
+S watermelon (2nd class)        1109 g         $18.2
+S watermelon (2nd class)        164g           18.70$
+S apple (green)                 1.441 kg       $ 14.60
+S Apple (green)                 330 g          $ 12.3
+S Apple (green)                 1.267kg        $14.74
+P Orange                        1.468kg        $23.91
+S Pear                          1482g          18.52 $
+S Pineapple                     1.33kg         $70.38
+S Apple (green)                 1.569kg        $14.81
+S Pineapple                     422g           $74.9
+S Pear                          303 g          $ 17
+S apple (green)                 159g           $ 15.5
+S Watermelon                    399 g          30.67$
+S Watermelon                    270 g          $ 36.4
+S Watermelon                    415g           35.37$
+S apple (green)                 0.669 kg       $14.5
+P Orange                        10955g         24.83$
+S Orange                        0.623kg        $30.46
+S Orange                        672g           30.0 $
+S watermelon                    1779  g        $38.04
+S Pear                          0.558kg        $ 19.7
+S Apple (green)                 0.691kg        $14.9
+P Watermelon                    1.728kg        29.68$
+S Apple (green)                 1.855 kg       $13.2
+S Pear                          1201 g         $ 19.95
+S Apple (green)                 1.363 kg       $11.40
+S Banana                        1959g          $24.39
+S Pear                          289g           $19.15
+S Orange                        431g           $ 26
+S banana                        851g           $20.45
+S Watermelon                    289g           $ 29.6
+S Banana                        1072 g         $23.90
+P Orange                        9.62kg         24.5$
+P Pineapple                     5728 g         $55.75
+S banana                        417 g          $24.5
+S Banana                        1.541  kg      22.55$
+S Watermelon (2nd class)        1734g          19.94$
+S banana                        841g           $ 23.53
+S Banana                        1.044kg        24.8 $
+S Watermelon                    276 g          29.2$
+S Watermelon                    0.588 kg       $38.11
+S Watermelon (2nd class)        983 g          $16.39
+S Banana                        0.704kg        $24.70
+S Pineapple                     392 g          $67.09
+S Apple (red)                   358g           $7.86
+S Apple (green)                 1174g          15.30 $
+S Apple (green)                 1.365 kg       $14.8
+S Pear                          1.76kg         $ 21.36
+S Pear                          1.125 kg       22.96$
+S Pear                          1776g          $20.43
+S Pineapple                     0.658kg        67.6 $
+S Pineapple                     298g           $59.24
+S Pineapple                     0.872 kg       60.8$
+S apple (green)                 1.007kg        $14.50
+S Apple (red)                   1706 g         7.7 $
+S Watermelon (2nd class)        723g           20.13 $
+S Pear                          1.423kg        $21.2
+S Banana                        1846 g         23.65$
+S Apple (red)                   1.687kg        $8.1
+S Pear                          660 g          21$
+S Apple (green)                 1876 g         15.04 $
+S watermelon                    327g           $ 28.56
+S apple (red)                   1803 g         8.34 $
+S Banana                        1.576 kg       $ 25.05
+S banana                        432g           $21.12
+S Pineapple                     751 g          64.12$
+S Orange                        247g           $ 23.23
+S Pear                          447 g          $18.53
+P Pear                          640g           $14.57
+S apple (red)                   257g           $9.1
+S Apple (red)                   455g           $ 9.72
+S Orange                        261g           $ 26.31
+S Orange                        789g           $31.1
+S Orange                        0.92 kg        29.84 $
+S Apple (red)                   285g           8.7$
+P Pear                          1.429 kg       18.55$
+S Pear                          1.055kg        21.32$
+S Apple (green)                 738g           $13.8
+P Watermelon (2nd class)        3.07kg         15.57 $
+S Apple (green)                 1838g          $14.72
+S Pineapple                     0.656 kg       $57.05
+S Watermelon (2nd class)        1.09 kg        $ 16.10
+S watermelon (2nd class)        1.867 kg       $ 15.58
+S Banana                        1352 g         20.97$
+S Pineapple                     242g           65.13$
+S Pear                          1075g          $22.7
+S Pineapple                     1.029kg        $ 56.88
+S Orange                        1.123kg        $27.56
+S pear                          384g           21$
+P pear                          13.145kg       $18.46
+S Orange                        1.034 kg       $23.0
+S Orange                        1778 g         $25.54
+S Pineapple                     0.699kg        $60.35
+S Apple (green)                 1.168 kg       $13.96
+S pineapple                     1611g          $62.99
+S Pear                          1.473 kg       18.62$
+S Watermelon (2nd class)        458 g          15.73$
+S Apple (green)                 0.663kg        $ 11.80
+S Pear                          1.93kg         $ 18.2
+S Watermelon (2nd class)        0.792  kg      $16
+S Orange                        401g           28$
+P Watermelon (2nd class)        8.876 kg       $ 15.75
+S Apple (red)                   888g           7.9$
+S Apple (green)                 149g           $13.66
+P orange                        14.36kg        $21.72
+S watermelon                    1465 g         29.73$
+S Watermelon                    1.445 kg       $29.3
+S Watermelon (2nd class)        0.79  kg       $17.42
+S Pear                          460g           $22.17
+P Apple (red)                   3342 g         8.3 $
+S Pear                          1.148kg        $ 19
+S Banana                        1.03 kg        $ 23.85
+S watermelon (2nd class)        0.641 kg       $19.41
+S Apple (red)                   698g           $ 10.00
+S orange                        0.848 kg       $ 31.01
+S banana                        1885g          $24.1
+S Orange                        1.486kg        28.0$
+S Pear                          489g           $21.68
+S Pineapple                     177g           74.6 $
+S Apple (red)                   1517g          $7.8
+S Watermelon                    0.686kg        $29.75
+S apple (green)                 1.773kg        $ 14.8
+S Banana                        1.977 kg       $25.34
+S Orange                        1.953kg        $ 27.2
+S Orange                        415 g          23.81$
+S Apple (green)                 615g           14.9 $
+S Apple (red)                   419g           $ 8.14
+S Apple (red)                   0.53kg         $9.38
+S Orange                        1216g          $25.50
+P orange                        4544 g         22.51$
+S banana                        1.247 kg       $19.0
+S Orange                        533 g          $27.3
+S Apple (red)                   1447g          10.39$
+S Apple (red)                   1.295kg        $10.16
+S Watermelon (2nd class)        0.709 kg       $19.4
+S watermelon (2nd class)        985g           $ 15.51
+S Banana                        174g           $24.42
+S Pineapple                     126 g          $56.42
+P watermelon                    13593 g        $25.10
+S Orange                        1.649 kg       31$
+S Watermelon (2nd class)        1.366kg        16.47$
+S Apple (red)                   1538g          7.91 $
+S Pineapple                     1143g          63.52 $
+P Apple (green)                 6.273kg        $ 10.71
+S Watermelon (2nd class)        1604 g         19.06$
+S Apple (green)                 1388  g        $14
+S Orange                        981g           $28.69
+P watermelon (2nd class)        7401g          12.91$
+S Banana                        970g           $ 21.5
+S Banana                        0.853 kg       $22.77
+S Apple (green)                 0.955 kg       $13.4
+S banana                        348g           20.28$
+S Pear                          570 g          $18.62
+S Watermelon                    1.095 kg       29.25$
+S Apple (green)                 1711g          $ 12.81
+S Watermelon (2nd class)        0.78kg         15.66$
+S Apple (red)                   934 g          $8
+S Apple (green)                 0.68 kg        $13
+S Pineapple                     1695g          $68.93
+S Pear                          479 g          $23.3
+S banana                        1.873kg        22.2$
+S Banana                        1.629kg        19.5$
+S Pineapple                     1700 g         57.54$
+S Orange                        1.613kg        26.92$
+S apple (green)                 1724g          $15.1
+S watermelon                    471 g          $ 37.48
+P orange                        6938 g         $24.92
+S apple (red)                   1701 g         9.2$
+S Apple (red)                   1378 g         9.0$
+S Apple (red)                   1520g          $9.4
+P apple (red)                   1.268  kg      $8.34
+S Watermelon (2nd class)        193g           15.52$
+S Apple (green)                 1.831 kg       $14.9
+S Pineapple                     1.022kg        $ 67.20
+S Pineapple                     357g           $66.62
+P Pineapple                     16509 g        $ 55.5
+S Pineapple                     864g           57.64$
+S Watermelon                    1929  g        $36.57
+S Pineapple                     175g           $ 70.4
+S Pear                          0.609kg        $21.98
+P banana                        1.383kg        $16.20
+S Pineapple                     1867g          $65
+S Watermelon                    186g           $36.14
+S Watermelon                    1584 g         $34.26
+S Apple (green)                 506g           $12.07
+P Apple (red)                   1767g          $ 6
+S Pear                          1.309  kg      23.22$
+S Banana                        214g           $25.31
+S Watermelon                    1.484 kg       37.63 $
+S pear                          921 g          $23.24
+S Apple (red)                   1.501 kg       $7.94
+S Pineapple                     782 g          $69.9
+S Banana                        1.253kg        $ 23.12
+S Watermelon                    498 g          $ 38.15
+S Orange                        244g           27.28$
+S Watermelon                    464g           30.88$
+S pear                          1.298kg        $ 22.4
+P Banana                        0.767kg        20.81$
+S Apple (red)                   1.274 kg       8.66$
+P Apple (red)                   1481 g         $6
+S Orange                        1924g          $ 25.78
+S Watermelon (2nd class)        1.592kg        $ 15.45
+S Watermelon                    1481 g         $37.5
+S Pear                          331 g          $20.0
+S Watermelon (2nd class)        1551g          $16.6
+S apple (red)                   582 g          $7.75
+S Pineapple                     958g           $73.17
+S pineapple                     972g           $ 71.38
+S Apple (red)                   1.134kg        $ 8.32
+S orange                        1.809kg        $23.2
+P Apple (red)                   319g           $ 6.8
+S orange                        339 g          27.0$
+S Watermelon                    434 g          33.5$
+S apple (green)                 0.967kg        $13.19
+P Apple (green)                 4.669kg        $ 12.2
+P Apple (red)                   0.674kg        $6.97
+S apple (red)                   0.617kg        $7.84
+S Pineapple                     0.611kg        $59.7
+S Pear                          569 g          22.79$
+S Watermelon                    1.551 kg       36.1$
+S orange                        261g           $29.31
+S pear                          0.986 kg       $20.62
+P Apple (red)                   1349g          7.5$
+P banana                        1.54 kg        18.4 $
+S banana                        0.754 kg       $23.46
+S Apple (red)                   1335g          $9.18
+S Orange                        1.887kg        $ 26.30
+P Apple (red)                   0.942kg        $7.39
+S Apple (green)                 363 g          14.90$
+P Apple (red)                   1.882 kg       $8.29
+P Watermelon                    10.776 kg      $ 30.07
+S Orange                        0.512kg        $25.11
+S Pineapple                     168g           $66.43
+S Apple (red)                   623 g          $7.7
+S watermelon (2nd class)        906 g          20$
+S Banana                        0.949 kg       $20.76
+S Apple (green)                 0.993 kg       $13.47
+S watermelon (2nd class)        1773g          $15
+S Apple (red)                   1.624 kg       $ 7.98
+P Apple (red)                   1.238kg        $ 7.8

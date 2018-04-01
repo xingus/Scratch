@@ -1,0 +1,8 @@
+﻿{
+  "Config": {
+    "File": "Data\\F_SCH_A_PART1_2016_latest_byZip.csv",
+    "Title": "EntityResolution",
+    "StateFilterSet": [ "CT", "MA", "ME", "NH", "RI", "VT" ],
+    "ProximityMinimum": 0.75
+  }
+}

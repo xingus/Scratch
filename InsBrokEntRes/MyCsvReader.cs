@@ -31,6 +31,7 @@ namespace InsBrokEntRes
         }
 
         #region IDisposable Support
+
         private bool disposedValue = false; // To detect redundant calls
 
         protected virtual void Dispose(bool disposing)
@@ -52,6 +53,7 @@ namespace InsBrokEntRes
             // Put cleanup code in Dispose(bool disposing) above.
             Dispose(true);
         }
+
         #endregion
     }
 }

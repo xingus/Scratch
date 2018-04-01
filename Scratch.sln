@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiCoreConsole", "DiCoreCons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiCore", "DiCore\DiCore.csproj", "{D73AFEA8-DF16-411C-937A-F402EEC23D90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiSumOfMultiples", "DiSumOfMultiples\DiSumOfMultiples.csproj", "{367D12A1-DAE5-412E-9341-68462E4C9794}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiSumOfMultiples", "DiSumOfMultiples\DiSumOfMultiples.csproj", "{367D12A1-DAE5-412E-9341-68462E4C9794}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityResolution", "EntityResolution\EntityResolution.csproj", "{694368A8-B7BC-4386-9E62-D7225F21C6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivComLedger", "DivComLedger\DivComLedger.csproj", "{0F7D0AA5-1945-4665-B2B7-19E7D479478F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{367D12A1-DAE5-412E-9341-68462E4C9794}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{367D12A1-DAE5-412E-9341-68462E4C9794}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{367D12A1-DAE5-412E-9341-68462E4C9794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694368A8-B7BC-4386-9E62-D7225F21C6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694368A8-B7BC-4386-9E62-D7225F21C6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694368A8-B7BC-4386-9E62-D7225F21C6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694368A8-B7BC-4386-9E62-D7225F21C6FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7D0AA5-1945-4665-B2B7-19E7D479478F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7D0AA5-1945-4665-B2B7-19E7D479478F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7D0AA5-1945-4665-B2B7-19E7D479478F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7D0AA5-1945-4665-B2B7-19E7D479478F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
