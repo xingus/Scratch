@@ -48,7 +48,7 @@ namespace DivComLedger
                 Ok = true;
                 //
             }
-            catch (Exception e)
+            catch // (Exception e)
             {
                 Ok = false;
                 // TODO Msg = e... Index

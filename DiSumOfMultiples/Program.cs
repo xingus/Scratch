@@ -17,7 +17,7 @@ namespace DiSumOfMultiples
             // make service[s] provider, run application, wait for key press
             var services = new ServiceCollection();
             MakeServiceProvider(services).GetService<App>().Run();
-            Console.ReadKey();
+            Console.Read();
         }
 
         /// <summary>

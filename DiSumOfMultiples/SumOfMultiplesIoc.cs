@@ -19,7 +19,7 @@ namespace DiSumOfMultiples
         /// <returns>Sum of multiples</returns>
         public int Sum(int minimum, int maximum, List<int> factors)
         {
-            return SumOfEnumerableByPredicate(Enumerable.Range(1, 999), e => new List<int> { 3, 5 }.Exists(f => 0 == e % f));
+            return SumOfEnumerableByPredicate(Enumerable.Range(minimum, maximum), e => factors.Exists(f => 0 == e % f));
         }
 
         /// <summary>
